@@ -5,13 +5,20 @@
              xmlns:oxy="clr-namespace:OxyPlot.Xamarin.Forms;assembly=OxyPlot.Xamarin.Forms">
 
     <StackLayout>
+        
         <oxy:PlotView Model="{Binding Model}"
                       VerticalOptions="Center"
                       HorizontalOptions="Center"
                       IsVisible="True"
                       WidthRequest="500"
                       HeightRequest="300"
-                      x:Name="Graph"/>
+                      />
+        
+        <Label Text="{Binding AnalogData}"
+               FontSize="30"
+               HorizontalOptions="Center" 
+               VerticalOptions="Center"
+               Margin="5"/>
     </StackLayout>
 
 </ContentPage>

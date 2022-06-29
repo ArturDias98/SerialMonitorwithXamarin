@@ -25,6 +25,1928 @@ namespace App.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Hoho.Android.UsbSerial.Resource.String.ApplicationName = global::App.Droid.Resource.String.ApplicationName;
+			global::Hoho.Android.UsbSerial.Resource.String.Hello = global::App.Droid.Resource.String.Hello;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::App.Droid.Resource.Animation.abc_fade_in;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::App.Droid.Resource.Animation.abc_fade_out;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::App.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.abc_popup_enter = global::App.Droid.Resource.Animation.abc_popup_enter;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.abc_popup_exit = global::App.Droid.Resource.Animation.abc_popup_exit;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::App.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_bottom = global::App.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_top = global::App.Droid.Resource.Animation.abc_slide_in_top;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_bottom = global::App.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_top = global::App.Droid.Resource.Animation.abc_slide_out_top;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_in = global::App.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_out = global::App.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_in = global::App.Droid.Resource.Animation.design_snackbar_in;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_out = global::App.Droid.Resource.Animation.design_snackbar_out;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromLeft = global::App.Droid.Resource.Animation.EnterFromLeft;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromRight = global::App.Droid.Resource.Animation.EnterFromRight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.ExitToLeft = global::App.Droid.Resource.Animation.ExitToLeft;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animation.ExitToRight = global::App.Droid.Resource.Animation.ExitToRight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Animator.design_appbar_state_list_animator = global::App.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarDivider = global::App.Droid.Resource.Attribute.actionBarDivider;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarItemBackground = global::App.Droid.Resource.Attribute.actionBarItemBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarPopupTheme = global::App.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::App.Droid.Resource.Attribute.actionBarSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSplitStyle = global::App.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarStyle = global::App.Droid.Resource.Attribute.actionBarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabBarStyle = global::App.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabStyle = global::App.Droid.Resource.Attribute.actionBarTabStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabTextStyle = global::App.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTheme = global::App.Droid.Resource.Attribute.actionBarTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarWidgetTheme = global::App.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionButtonStyle = global::App.Droid.Resource.Attribute.actionButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionDropDownStyle = global::App.Droid.Resource.Attribute.actionDropDownStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionLayout = global::App.Droid.Resource.Attribute.actionLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionMenuTextAppearance = global::App.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionMenuTextColor = global::App.Droid.Resource.Attribute.actionMenuTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeBackground = global::App.Droid.Resource.Attribute.actionModeBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCloseButtonStyle = global::App.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCloseDrawable = global::App.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCopyDrawable = global::App.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCutDrawable = global::App.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeFindDrawable = global::App.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModePasteDrawable = global::App.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModePopupWindowStyle = global::App.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeSelectAllDrawable = global::App.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeShareDrawable = global::App.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeSplitBackground = global::App.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeStyle = global::App.Droid.Resource.Attribute.actionModeStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeWebSearchDrawable = global::App.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionOverflowButtonStyle = global::App.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionOverflowMenuStyle = global::App.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionProviderClass = global::App.Droid.Resource.Attribute.actionProviderClass;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.actionViewClass = global::App.Droid.Resource.Attribute.actionViewClass;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.activityChooserViewStyle = global::App.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::App.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogCenterButtons = global::App.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogStyle = global::App.Droid.Resource.Attribute.alertDialogStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogTheme = global::App.Droid.Resource.Attribute.alertDialogTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.allowStacking = global::App.Droid.Resource.Attribute.allowStacking;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.alpha = global::App.Droid.Resource.Attribute.alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.alphabeticModifiers = global::App.Droid.Resource.Attribute.alphabeticModifiers;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.arrowHeadLength = global::App.Droid.Resource.Attribute.arrowHeadLength;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.arrowShaftLength = global::App.Droid.Resource.Attribute.arrowShaftLength;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.autoCompleteTextViewStyle = global::App.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeMaxTextSize = global::App.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeMinTextSize = global::App.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizePresetSizes = global::App.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeStepGranularity = global::App.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeTextType = global::App.Droid.Resource.Attribute.autoSizeTextType;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.background = global::App.Droid.Resource.Attribute.background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundSplit = global::App.Droid.Resource.Attribute.backgroundSplit;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundStacked = global::App.Droid.Resource.Attribute.backgroundStacked;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTint = global::App.Droid.Resource.Attribute.backgroundTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTintMode = global::App.Droid.Resource.Attribute.backgroundTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.barLength = global::App.Droid.Resource.Attribute.barLength;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_autoHide = global::App.Droid.Resource.Attribute.behavior_autoHide;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_hideable = global::App.Droid.Resource.Attribute.behavior_hideable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_overlapTop = global::App.Droid.Resource.Attribute.behavior_overlapTop;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_peekHeight = global::App.Droid.Resource.Attribute.behavior_peekHeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_skipCollapsed = global::App.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.borderlessButtonStyle = global::App.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.borderWidth = global::App.Droid.Resource.Attribute.borderWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetDialogTheme = global::App.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetStyle = global::App.Droid.Resource.Attribute.bottomSheetStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarButtonStyle = global::App.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::App.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::App.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::App.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarStyle = global::App.Droid.Resource.Attribute.buttonBarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.buttonGravity = global::App.Droid.Resource.Attribute.buttonGravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.buttonPanelSideLayout = global::App.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyle = global::App.Droid.Resource.Attribute.buttonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyleSmall = global::App.Droid.Resource.Attribute.buttonStyleSmall;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.buttonTint = global::App.Droid.Resource.Attribute.buttonTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.buttonTintMode = global::App.Droid.Resource.Attribute.buttonTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.cardBackgroundColor = global::App.Droid.Resource.Attribute.cardBackgroundColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.cardCornerRadius = global::App.Droid.Resource.Attribute.cardCornerRadius;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.cardElevation = global::App.Droid.Resource.Attribute.cardElevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.cardMaxElevation = global::App.Droid.Resource.Attribute.cardMaxElevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.cardPreventCornerOverlap = global::App.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.cardUseCompatPadding = global::App.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.checkboxStyle = global::App.Droid.Resource.Attribute.checkboxStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.checkedTextViewStyle = global::App.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.closeIcon = global::App.Droid.Resource.Attribute.closeIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.closeItemLayout = global::App.Droid.Resource.Attribute.closeItemLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.collapseContentDescription = global::App.Droid.Resource.Attribute.collapseContentDescription;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleGravity = global::App.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleTextAppearance = global::App.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.collapseIcon = global::App.Droid.Resource.Attribute.collapseIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.color = global::App.Droid.Resource.Attribute.color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.colorAccent = global::App.Droid.Resource.Attribute.colorAccent;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.colorBackgroundFloating = global::App.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.colorButtonNormal = global::App.Droid.Resource.Attribute.colorButtonNormal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlActivated = global::App.Droid.Resource.Attribute.colorControlActivated;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlHighlight = global::App.Droid.Resource.Attribute.colorControlHighlight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlNormal = global::App.Droid.Resource.Attribute.colorControlNormal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.colorError = global::App.Droid.Resource.Attribute.colorError;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimary = global::App.Droid.Resource.Attribute.colorPrimary;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimaryDark = global::App.Droid.Resource.Attribute.colorPrimaryDark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.colorSwitchThumbNormal = global::App.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.commitIcon = global::App.Droid.Resource.Attribute.commitIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentDescription = global::App.Droid.Resource.Attribute.contentDescription;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetEnd = global::App.Droid.Resource.Attribute.contentInsetEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetEndWithActions = global::App.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetLeft = global::App.Droid.Resource.Attribute.contentInsetLeft;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetRight = global::App.Droid.Resource.Attribute.contentInsetRight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetStart = global::App.Droid.Resource.Attribute.contentInsetStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetStartWithNavigation = global::App.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentPadding = global::App.Droid.Resource.Attribute.contentPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingBottom = global::App.Droid.Resource.Attribute.contentPaddingBottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingLeft = global::App.Droid.Resource.Attribute.contentPaddingLeft;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingRight = global::App.Droid.Resource.Attribute.contentPaddingRight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingTop = global::App.Droid.Resource.Attribute.contentPaddingTop;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.contentScrim = global::App.Droid.Resource.Attribute.contentScrim;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.controlBackground = global::App.Droid.Resource.Attribute.controlBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.counterEnabled = global::App.Droid.Resource.Attribute.counterEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.counterMaxLength = global::App.Droid.Resource.Attribute.counterMaxLength;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.counterOverflowTextAppearance = global::App.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.counterTextAppearance = global::App.Droid.Resource.Attribute.counterTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.customNavigationLayout = global::App.Droid.Resource.Attribute.customNavigationLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.defaultQueryHint = global::App.Droid.Resource.Attribute.defaultQueryHint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.dialogPreferredPadding = global::App.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.dialogTheme = global::App.Droid.Resource.Attribute.dialogTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.displayOptions = global::App.Droid.Resource.Attribute.displayOptions;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.divider = global::App.Droid.Resource.Attribute.divider;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.dividerHorizontal = global::App.Droid.Resource.Attribute.dividerHorizontal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.dividerPadding = global::App.Droid.Resource.Attribute.dividerPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.dividerVertical = global::App.Droid.Resource.Attribute.dividerVertical;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.drawableSize = global::App.Droid.Resource.Attribute.drawableSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.drawerArrowStyle = global::App.Droid.Resource.Attribute.drawerArrowStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::App.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.dropDownListViewStyle = global::App.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.editTextBackground = global::App.Droid.Resource.Attribute.editTextBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.editTextColor = global::App.Droid.Resource.Attribute.editTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.editTextStyle = global::App.Droid.Resource.Attribute.editTextStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.elevation = global::App.Droid.Resource.Attribute.elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.errorEnabled = global::App.Droid.Resource.Attribute.errorEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.errorTextAppearance = global::App.Droid.Resource.Attribute.errorTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::App.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.expanded = global::App.Droid.Resource.Attribute.expanded;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleGravity = global::App.Droid.Resource.Attribute.expandedTitleGravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMargin = global::App.Droid.Resource.Attribute.expandedTitleMargin;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginBottom = global::App.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginEnd = global::App.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginStart = global::App.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginTop = global::App.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleTextAppearance = global::App.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fabSize = global::App.Droid.Resource.Attribute.fabSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollEnabled = global::App.Droid.Resource.Attribute.fastScrollEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::App.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::App.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalThumbDrawable = global::App.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalTrackDrawable = global::App.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.font = global::App.Droid.Resource.Attribute.font;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fontFamily = global::App.Droid.Resource.Attribute.fontFamily;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderAuthority = global::App.Droid.Resource.Attribute.fontProviderAuthority;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderCerts = global::App.Droid.Resource.Attribute.fontProviderCerts;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderFetchStrategy = global::App.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderFetchTimeout = global::App.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderPackage = global::App.Droid.Resource.Attribute.fontProviderPackage;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderQuery = global::App.Droid.Resource.Attribute.fontProviderQuery;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fontStyle = global::App.Droid.Resource.Attribute.fontStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.fontWeight = global::App.Droid.Resource.Attribute.fontWeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.foregroundInsidePadding = global::App.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.gapBetweenBars = global::App.Droid.Resource.Attribute.gapBetweenBars;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.goIcon = global::App.Droid.Resource.Attribute.goIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.headerLayout = global::App.Droid.Resource.Attribute.headerLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.height = global::App.Droid.Resource.Attribute.height;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnContentScroll = global::App.Droid.Resource.Attribute.hideOnContentScroll;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.hintAnimationEnabled = global::App.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.hintEnabled = global::App.Droid.Resource.Attribute.hintEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.hintTextAppearance = global::App.Droid.Resource.Attribute.hintTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.homeAsUpIndicator = global::App.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.homeLayout = global::App.Droid.Resource.Attribute.homeLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.icon = global::App.Droid.Resource.Attribute.icon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.iconifiedByDefault = global::App.Droid.Resource.Attribute.iconifiedByDefault;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.iconTint = global::App.Droid.Resource.Attribute.iconTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.iconTintMode = global::App.Droid.Resource.Attribute.iconTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.imageButtonStyle = global::App.Droid.Resource.Attribute.imageButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.indeterminateProgressStyle = global::App.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.initialActivityCount = global::App.Droid.Resource.Attribute.initialActivityCount;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.insetForeground = global::App.Droid.Resource.Attribute.insetForeground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.isLightTheme = global::App.Droid.Resource.Attribute.isLightTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.itemBackground = global::App.Droid.Resource.Attribute.itemBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconTint = global::App.Droid.Resource.Attribute.itemIconTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.itemPadding = global::App.Droid.Resource.Attribute.itemPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearance = global::App.Droid.Resource.Attribute.itemTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextColor = global::App.Droid.Resource.Attribute.itemTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.keylines = global::App.Droid.Resource.Attribute.keylines;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.layout = global::App.Droid.Resource.Attribute.layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.layoutManager = global::App.Droid.Resource.Attribute.layoutManager;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchor = global::App.Droid.Resource.Attribute.layout_anchor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchorGravity = global::App.Droid.Resource.Attribute.layout_anchorGravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.layout_behavior = global::App.Droid.Resource.Attribute.layout_behavior;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.layout_collapseMode = global::App.Droid.Resource.Attribute.layout_collapseMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::App.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.layout_dodgeInsetEdges = global::App.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.layout_insetEdge = global::App.Droid.Resource.Attribute.layout_insetEdge;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.layout_keyline = global::App.Droid.Resource.Attribute.layout_keyline;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollFlags = global::App.Droid.Resource.Attribute.layout_scrollFlags;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollInterpolator = global::App.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::App.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.listDividerAlertDialog = global::App.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.listItemLayout = global::App.Droid.Resource.Attribute.listItemLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.listLayout = global::App.Droid.Resource.Attribute.listLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.listMenuViewStyle = global::App.Droid.Resource.Attribute.listMenuViewStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.listPopupWindowStyle = global::App.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeight = global::App.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeightLarge = global::App.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeightSmall = global::App.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::App.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingRight = global::App.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.logo = global::App.Droid.Resource.Attribute.logo;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.logoDescription = global::App.Droid.Resource.Attribute.logoDescription;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.maxActionInlineWidth = global::App.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.maxButtonHeight = global::App.Droid.Resource.Attribute.maxButtonHeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.measureWithLargestChild = global::App.Droid.Resource.Attribute.measureWithLargestChild;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.menu = global::App.Droid.Resource.Attribute.menu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.multiChoiceItemLayout = global::App.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.navigationContentDescription = global::App.Droid.Resource.Attribute.navigationContentDescription;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.navigationIcon = global::App.Droid.Resource.Attribute.navigationIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.navigationMode = global::App.Droid.Resource.Attribute.navigationMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.numericModifiers = global::App.Droid.Resource.Attribute.numericModifiers;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.overlapAnchor = global::App.Droid.Resource.Attribute.overlapAnchor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.paddingBottomNoButtons = global::App.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.paddingEnd = global::App.Droid.Resource.Attribute.paddingEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.paddingStart = global::App.Droid.Resource.Attribute.paddingStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.paddingTopNoTitle = global::App.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.panelBackground = global::App.Droid.Resource.Attribute.panelBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.panelMenuListTheme = global::App.Droid.Resource.Attribute.panelMenuListTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.panelMenuListWidth = global::App.Droid.Resource.Attribute.panelMenuListWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleContentDescription = global::App.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleDrawable = global::App.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleEnabled = global::App.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleTint = global::App.Droid.Resource.Attribute.passwordToggleTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleTintMode = global::App.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.popupMenuStyle = global::App.Droid.Resource.Attribute.popupMenuStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.popupTheme = global::App.Droid.Resource.Attribute.popupTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.popupWindowStyle = global::App.Droid.Resource.Attribute.popupWindowStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.preserveIconSpacing = global::App.Droid.Resource.Attribute.preserveIconSpacing;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.pressedTranslationZ = global::App.Droid.Resource.Attribute.pressedTranslationZ;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.progressBarPadding = global::App.Droid.Resource.Attribute.progressBarPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.progressBarStyle = global::App.Droid.Resource.Attribute.progressBarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.queryBackground = global::App.Droid.Resource.Attribute.queryBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.queryHint = global::App.Droid.Resource.Attribute.queryHint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.radioButtonStyle = global::App.Droid.Resource.Attribute.radioButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyle = global::App.Droid.Resource.Attribute.ratingBarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyleIndicator = global::App.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyleSmall = global::App.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.reverseLayout = global::App.Droid.Resource.Attribute.reverseLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.rippleColor = global::App.Droid.Resource.Attribute.rippleColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.scrimAnimationDuration = global::App.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::App.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.searchHintIcon = global::App.Droid.Resource.Attribute.searchHintIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.searchIcon = global::App.Droid.Resource.Attribute.searchIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.searchViewStyle = global::App.Droid.Resource.Attribute.searchViewStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.seekBarStyle = global::App.Droid.Resource.Attribute.seekBarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackground = global::App.Droid.Resource.Attribute.selectableItemBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::App.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.showAsAction = global::App.Droid.Resource.Attribute.showAsAction;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.showDividers = global::App.Droid.Resource.Attribute.showDividers;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.showText = global::App.Droid.Resource.Attribute.showText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.showTitle = global::App.Droid.Resource.Attribute.showTitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.singleChoiceItemLayout = global::App.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.spanCount = global::App.Droid.Resource.Attribute.spanCount;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.spinBars = global::App.Droid.Resource.Attribute.spinBars;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerDropDownItemStyle = global::App.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerStyle = global::App.Droid.Resource.Attribute.spinnerStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.splitTrack = global::App.Droid.Resource.Attribute.splitTrack;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.srcCompat = global::App.Droid.Resource.Attribute.srcCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.stackFromEnd = global::App.Droid.Resource.Attribute.stackFromEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.state_above_anchor = global::App.Droid.Resource.Attribute.state_above_anchor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsed = global::App.Droid.Resource.Attribute.state_collapsed;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsible = global::App.Droid.Resource.Attribute.state_collapsible;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarBackground = global::App.Droid.Resource.Attribute.statusBarBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarScrim = global::App.Droid.Resource.Attribute.statusBarScrim;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.subMenuArrow = global::App.Droid.Resource.Attribute.subMenuArrow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.submitBackground = global::App.Droid.Resource.Attribute.submitBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.subtitle = global::App.Droid.Resource.Attribute.subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextAppearance = global::App.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextColor = global::App.Droid.Resource.Attribute.subtitleTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextStyle = global::App.Droid.Resource.Attribute.subtitleTextStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.suggestionRowLayout = global::App.Droid.Resource.Attribute.suggestionRowLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.switchMinWidth = global::App.Droid.Resource.Attribute.switchMinWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.switchPadding = global::App.Droid.Resource.Attribute.switchPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.switchStyle = global::App.Droid.Resource.Attribute.switchStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.switchTextAppearance = global::App.Droid.Resource.Attribute.switchTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabBackground = global::App.Droid.Resource.Attribute.tabBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabContentStart = global::App.Droid.Resource.Attribute.tabContentStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabGravity = global::App.Droid.Resource.Attribute.tabGravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorColor = global::App.Droid.Resource.Attribute.tabIndicatorColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorHeight = global::App.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabMaxWidth = global::App.Droid.Resource.Attribute.tabMaxWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabMinWidth = global::App.Droid.Resource.Attribute.tabMinWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabMode = global::App.Droid.Resource.Attribute.tabMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabPadding = global::App.Droid.Resource.Attribute.tabPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingBottom = global::App.Droid.Resource.Attribute.tabPaddingBottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingEnd = global::App.Droid.Resource.Attribute.tabPaddingEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingStart = global::App.Droid.Resource.Attribute.tabPaddingStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingTop = global::App.Droid.Resource.Attribute.tabPaddingTop;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabSelectedTextColor = global::App.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextAppearance = global::App.Droid.Resource.Attribute.tabTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextColor = global::App.Droid.Resource.Attribute.tabTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.textAllCaps = global::App.Droid.Resource.Attribute.textAllCaps;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::App.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItem = global::App.Droid.Resource.Attribute.textAppearanceListItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSecondary = global::App.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSmall = global::App.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::App.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::App.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::App.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::App.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.textColorAlertDialogListItem = global::App.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.textColorSearchUrl = global::App.Droid.Resource.Attribute.textColorSearchUrl;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.theme = global::App.Droid.Resource.Attribute.theme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.thickness = global::App.Droid.Resource.Attribute.thickness;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTextPadding = global::App.Droid.Resource.Attribute.thumbTextPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTint = global::App.Droid.Resource.Attribute.thumbTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTintMode = global::App.Droid.Resource.Attribute.thumbTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tickMark = global::App.Droid.Resource.Attribute.tickMark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tickMarkTint = global::App.Droid.Resource.Attribute.tickMarkTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tickMarkTintMode = global::App.Droid.Resource.Attribute.tickMarkTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tint = global::App.Droid.Resource.Attribute.tint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tintMode = global::App.Droid.Resource.Attribute.tintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.title = global::App.Droid.Resource.Attribute.title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.titleEnabled = global::App.Droid.Resource.Attribute.titleEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargin = global::App.Droid.Resource.Attribute.titleMargin;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginBottom = global::App.Droid.Resource.Attribute.titleMarginBottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginEnd = global::App.Droid.Resource.Attribute.titleMarginEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargins = global::App.Droid.Resource.Attribute.titleMargins;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginStart = global::App.Droid.Resource.Attribute.titleMarginStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginTop = global::App.Droid.Resource.Attribute.titleMarginTop;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextAppearance = global::App.Droid.Resource.Attribute.titleTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextColor = global::App.Droid.Resource.Attribute.titleTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextStyle = global::App.Droid.Resource.Attribute.titleTextStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarId = global::App.Droid.Resource.Attribute.toolbarId;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::App.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarStyle = global::App.Droid.Resource.Attribute.toolbarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipForegroundColor = global::App.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipFrameBackground = global::App.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipText = global::App.Droid.Resource.Attribute.tooltipText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.track = global::App.Droid.Resource.Attribute.track;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.trackTint = global::App.Droid.Resource.Attribute.trackTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.trackTintMode = global::App.Droid.Resource.Attribute.trackTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.useCompatPadding = global::App.Droid.Resource.Attribute.useCompatPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.voiceIcon = global::App.Droid.Resource.Attribute.voiceIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBar = global::App.Droid.Resource.Attribute.windowActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBarOverlay = global::App.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionModeOverlay = global::App.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedHeightMajor = global::App.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedHeightMinor = global::App.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedWidthMajor = global::App.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedWidthMinor = global::App.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.windowMinWidthMajor = global::App.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.windowMinWidthMinor = global::App.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Attribute.windowNoTitle = global::App.Droid.Resource.Attribute.windowNoTitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::App.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::App.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::App.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::App.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::App.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_text_material = global::App.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_color_highlight_material = global::App.Droid.Resource.Color.abc_color_highlight_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_hint_foreground_material_dark = global::App.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_hint_foreground_material_light = global::App.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::App.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::App.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_material_dark = global::App.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_material_light = global::App.Droid.Resource.Color.abc_primary_text_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text = global::App.Droid.Resource.Color.abc_search_url_text;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_normal = global::App.Droid.Resource.Color.abc_search_url_text_normal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_pressed = global::App.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_selected = global::App.Droid.Resource.Color.abc_search_url_text_selected;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_secondary_text_material_dark = global::App.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_secondary_text_material_light = global::App.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_btn_checkable = global::App.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_default = global::App.Droid.Resource.Color.abc_tint_default;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_edittext = global::App.Droid.Resource.Color.abc_tint_edittext;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_seek_thumb = global::App.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_spinner = global::App.Droid.Resource.Color.abc_tint_spinner;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_switch_track = global::App.Droid.Resource.Color.abc_tint_switch_track;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.accent_material_dark = global::App.Droid.Resource.Color.accent_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.accent_material_light = global::App.Droid.Resource.Color.accent_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.background_floating_material_dark = global::App.Droid.Resource.Color.background_floating_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.background_floating_material_light = global::App.Droid.Resource.Color.background_floating_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.background_material_dark = global::App.Droid.Resource.Color.background_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.background_material_light = global::App.Droid.Resource.Color.background_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_disabled_material_dark = global::App.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_disabled_material_light = global::App.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_inverse_material_dark = global::App.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_inverse_material_light = global::App.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_material_dark = global::App.Droid.Resource.Color.bright_foreground_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_material_light = global::App.Droid.Resource.Color.bright_foreground_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.button_material_dark = global::App.Droid.Resource.Color.button_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.button_material_light = global::App.Droid.Resource.Color.button_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.cardview_dark_background = global::App.Droid.Resource.Color.cardview_dark_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.cardview_light_background = global::App.Droid.Resource.Color.cardview_light_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_end_color = global::App.Droid.Resource.Color.cardview_shadow_end_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_start_color = global::App.Droid.Resource.Color.cardview_shadow_start_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.design_bottom_navigation_shadow_color = global::App.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.design_error = global::App.Droid.Resource.Color.design_error;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_end_color = global::App.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_mid_color = global::App.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_start_color = global::App.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_end_inner_color = global::App.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_end_outer_color = global::App.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_top_inner_color = global::App.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_top_outer_color = global::App.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.design_snackbar_background_color = global::App.Droid.Resource.Color.design_snackbar_background_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_dark = global::App.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_light = global::App.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_dark = global::App.Droid.Resource.Color.dim_foreground_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_light = global::App.Droid.Resource.Color.dim_foreground_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_dark = global::App.Droid.Resource.Color.foreground_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_light = global::App.Droid.Resource.Color.foreground_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_dark = global::App.Droid.Resource.Color.highlighted_text_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_light = global::App.Droid.Resource.Color.highlighted_text_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_800 = global::App.Droid.Resource.Color.material_blue_grey_800;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_900 = global::App.Droid.Resource.Color.material_blue_grey_900;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_950 = global::App.Droid.Resource.Color.material_blue_grey_950;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.material_deep_teal_200 = global::App.Droid.Resource.Color.material_deep_teal_200;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.material_deep_teal_500 = global::App.Droid.Resource.Color.material_deep_teal_500;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.material_grey_100 = global::App.Droid.Resource.Color.material_grey_100;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.material_grey_300 = global::App.Droid.Resource.Color.material_grey_300;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.material_grey_50 = global::App.Droid.Resource.Color.material_grey_50;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.material_grey_600 = global::App.Droid.Resource.Color.material_grey_600;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.material_grey_800 = global::App.Droid.Resource.Color.material_grey_800;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.material_grey_850 = global::App.Droid.Resource.Color.material_grey_850;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.material_grey_900 = global::App.Droid.Resource.Color.material_grey_900;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.notification_action_color_filter = global::App.Droid.Resource.Color.notification_action_color_filter;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.notification_icon_bg_color = global::App.Droid.Resource.Color.notification_icon_bg_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.notification_material_background_media_default_color = global::App.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.primary_dark_material_dark = global::App.Droid.Resource.Color.primary_dark_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.primary_dark_material_light = global::App.Droid.Resource.Color.primary_dark_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.primary_material_dark = global::App.Droid.Resource.Color.primary_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.primary_material_light = global::App.Droid.Resource.Color.primary_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_dark = global::App.Droid.Resource.Color.primary_text_default_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_light = global::App.Droid.Resource.Color.primary_text_default_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_dark = global::App.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_light = global::App.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_dark = global::App.Droid.Resource.Color.ripple_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_light = global::App.Droid.Resource.Color.ripple_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_dark = global::App.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_light = global::App.Droid.Resource.Color.secondary_text_default_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_disabled_material_dark = global::App.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_disabled_material_light = global::App.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_disabled_material_dark = global::App.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_disabled_material_light = global::App.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_dark = global::App.Droid.Resource.Color.switch_thumb_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_light = global::App.Droid.Resource.Color.switch_thumb_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_dark = global::App.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_light = global::App.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_dark = global::App.Droid.Resource.Color.tooltip_background_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_light = global::App.Droid.Resource.Color.tooltip_background_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::App.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::App.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_height_material = global::App.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::App.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::App.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_elevation_material = global::App.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::App.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::App.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::App.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::App.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::App.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::App.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::App.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_height_material = global::App.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_material = global::App.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::App.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::App.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::App.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_vertical_material = global::App.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::App.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_vertical_material = global::App.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::App.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_config_prefDialogWidth = global::App.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_corner_material = global::App.Droid.Resource.Dimension.abc_control_corner_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_inset_material = global::App.Droid.Resource.Dimension.abc_control_inset_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_padding_material = global::App.Droid.Resource.Dimension.abc_control_padding_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::App.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::App.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::App.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::App.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::App.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::App.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_min_width_major = global::App.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_min_width_minor = global::App.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_padding_material = global::App.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_padding_top_material = global::App.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_title_divider_material = global::App.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::App.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::App.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::App.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::App.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::App.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::App.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::App.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::App.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_floating_window_z = global::App.Droid.Resource.Dimension.abc_floating_window_z;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::App.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_panel_menu_list_width = global::App.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_progress_bar_height_material = global::App.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_search_view_preferred_height = global::App.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_search_view_preferred_width = global::App.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::App.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::App.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::App.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_switch_padding = global::App.Droid.Resource.Dimension.abc_switch_padding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_body_1_material = global::App.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_body_2_material = global::App.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_button_material = global::App.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_caption_material = global::App.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_1_material = global::App.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_2_material = global::App.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_3_material = global::App.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_4_material = global::App.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_headline_material = global::App.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_large_material = global::App.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_medium_material = global::App.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_menu_header_material = global::App.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_menu_material = global::App.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_small_material = global::App.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subhead_material = global::App.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::App.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material = global::App.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::App.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_compat_inset_shadow = global::App.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_elevation = global::App.Droid.Resource.Dimension.cardview_default_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_radius = global::App.Droid.Resource.Dimension.cardview_default_radius;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_inset_horizontal_material = global::App.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_inset_vertical_material = global::App.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_horizontal_material = global::App.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_vertical_material = global::App.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.compat_control_corner_material = global::App.Droid.Resource.Dimension.compat_control_corner_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_appbar_elevation = global::App.Droid.Resource.Dimension.design_appbar_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::App.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::App.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_elevation = global::App.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_height = global::App.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::App.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::App.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_margin = global::App.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::App.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_text_size = global::App.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::App.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::App.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_border_width = global::App.Droid.Resource.Dimension.design_fab_border_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_elevation = global::App.Droid.Resource.Dimension.design_fab_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_image_size = global::App.Droid.Resource.Dimension.design_fab_image_size;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_mini = global::App.Droid.Resource.Dimension.design_fab_size_mini;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_normal = global::App.Droid.Resource.Dimension.design_fab_size_normal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_translation_z_pressed = global::App.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_elevation = global::App.Droid.Resource.Dimension.design_navigation_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_padding = global::App.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_size = global::App.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_max_width = global::App.Droid.Resource.Dimension.design_navigation_max_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_padding_bottom = global::App.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::App.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::App.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::App.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_elevation = global::App.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::App.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_max_width = global::App.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_min_width = global::App.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::App.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical = global::App.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::App.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_text_size = global::App.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_max_width = global::App.Droid.Resource.Dimension.design_tab_max_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_scrollable_min_width = global::App.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size = global::App.Droid.Resource.Dimension.design_tab_text_size;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size_2line = global::App.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_dark = global::App.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_light = global::App.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_default_thickness = global::App.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_margin = global::App.Droid.Resource.Dimension.fastscroll_margin;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_minimum_range = global::App.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_colored = global::App.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_dark = global::App.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_light = global::App.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.hint_alpha_material_dark = global::App.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.hint_alpha_material_light = global::App.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::App.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::App.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::App.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::App.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::App.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_icon_size = global::App.Droid.Resource.Dimension.notification_action_icon_size;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_text_size = global::App.Droid.Resource.Dimension.notification_action_text_size;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_big_circle_margin = global::App.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_content_margin_start = global::App.Droid.Resource.Dimension.notification_content_margin_start;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_large_icon_height = global::App.Droid.Resource.Dimension.notification_large_icon_height;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_large_icon_width = global::App.Droid.Resource.Dimension.notification_large_icon_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_main_column_padding_top = global::App.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_media_narrow_margin = global::App.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_right_icon_size = global::App.Droid.Resource.Dimension.notification_right_icon_size;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_right_side_padding_top = global::App.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_small_icon_background_padding = global::App.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_small_icon_size_as_large = global::App.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_subtext_size = global::App.Droid.Resource.Dimension.notification_subtext_size;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad = global::App.Droid.Resource.Dimension.notification_top_pad;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad_large_text = global::App.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_corner_radius = global::App.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_horizontal_padding = global::App.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_margin = global::App.Droid.Resource.Dimension.tooltip_margin;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::App.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_precise_anchor_threshold = global::App.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_vertical_padding = global::App.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_y_offset_non_touch = global::App.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_y_offset_touch = global::App.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_action_bar_item_background_material = global::App.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_borderless_material = global::App.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_material = global::App.Droid.Resource.Drawable.abc_btn_check_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::App.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::App.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_colored_material = global::App.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::App.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_material = global::App.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::App.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::App.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::App.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::App.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_internal_bg = global::App.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_top_material = global::App.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_control_background_material = global::App.Droid.Resource.Drawable.abc_control_background_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_dialog_material_background = global::App.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_edit_text_material = global::App.Droid.Resource.Drawable.abc_edit_text_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_ab_back_material = global::App.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::App.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_clear_material = global::App.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_go_search_api_material = global::App.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::App.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::App.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::App.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_search_api_material = global::App.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::App.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_dark = global::App.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_light = global::App.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_focused_holo = global::App.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_longpressed_holo = global::App.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::App.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_pressed_holo_light = global::App.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::App.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::App.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::App.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::App.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_holo_dark = global::App.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_holo_light = global::App.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::App.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::App.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::App.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_material = global::App.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_small_material = global::App.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::App.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::App.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_thumb_material = global::App.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::App.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_track_material = global::App.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::App.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::App.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_thumb_material = global::App.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_material = global::App.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::App.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_material = global::App.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_cursor_material = global::App.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.abc_vector_test = global::App.Droid.Resource.Drawable.abc_vector_test;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.avd_hide_password = global::App.Droid.Resource.Drawable.avd_hide_password;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.avd_show_password = global::App.Droid.Resource.Drawable.avd_show_password;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.design_fab_background = global::App.Droid.Resource.Drawable.design_fab_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility = global::App.Droid.Resource.Drawable.design_ic_visibility;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility_off = global::App.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.design_password_eye = global::App.Droid.Resource.Drawable.design_password_eye;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.design_snackbar_background = global::App.Droid.Resource.Drawable.design_snackbar_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.navigation_empty_icon = global::App.Droid.Resource.Drawable.navigation_empty_icon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.notification_action_background = global::App.Droid.Resource.Drawable.notification_action_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg = global::App.Droid.Resource.Drawable.notification_bg;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low = global::App.Droid.Resource.Drawable.notification_bg_low;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low_normal = global::App.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low_pressed = global::App.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_normal = global::App.Droid.Resource.Drawable.notification_bg_normal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_normal_pressed = global::App.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.notification_icon_background = global::App.Droid.Resource.Drawable.notification_icon_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_bg = global::App.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_low_bg = global::App.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.notification_tile_bg = global::App.Droid.Resource.Drawable.notification_tile_bg;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::App.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_dark = global::App.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_light = global::App.Droid.Resource.Drawable.tooltip_frame_light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action0 = global::App.Droid.Resource.Id.action0;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.actions = global::App.Droid.Resource.Id.actions;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_bar = global::App.Droid.Resource.Id.action_bar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_bar_activity_content = global::App.Droid.Resource.Id.action_bar_activity_content;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_bar_container = global::App.Droid.Resource.Id.action_bar_container;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_bar_root = global::App.Droid.Resource.Id.action_bar_root;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_bar_spinner = global::App.Droid.Resource.Id.action_bar_spinner;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_bar_subtitle = global::App.Droid.Resource.Id.action_bar_subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_bar_title = global::App.Droid.Resource.Id.action_bar_title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_container = global::App.Droid.Resource.Id.action_container;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_context_bar = global::App.Droid.Resource.Id.action_context_bar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_divider = global::App.Droid.Resource.Id.action_divider;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_image = global::App.Droid.Resource.Id.action_image;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_menu_divider = global::App.Droid.Resource.Id.action_menu_divider;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_menu_presenter = global::App.Droid.Resource.Id.action_menu_presenter;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar = global::App.Droid.Resource.Id.action_mode_bar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar_stub = global::App.Droid.Resource.Id.action_mode_bar_stub;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_mode_close_button = global::App.Droid.Resource.Id.action_mode_close_button;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.action_text = global::App.Droid.Resource.Id.action_text;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.activity_chooser_view_content = global::App.Droid.Resource.Id.activity_chooser_view_content;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.add = global::App.Droid.Resource.Id.add;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.alertTitle = global::App.Droid.Resource.Id.alertTitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.all = global::App.Droid.Resource.Id.all;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.ALT = global::App.Droid.Resource.Id.ALT;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.always = global::App.Droid.Resource.Id.always;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.async = global::App.Droid.Resource.Id.async;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.auto = global::App.Droid.Resource.Id.auto;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.beginning = global::App.Droid.Resource.Id.beginning;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.blocking = global::App.Droid.Resource.Id.blocking;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.bottom = global::App.Droid.Resource.Id.bottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.bottomtab_navarea = global::App.Droid.Resource.Id.bottomtab_navarea;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.bottomtab_tabbar = global::App.Droid.Resource.Id.bottomtab_tabbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.buttonPanel = global::App.Droid.Resource.Id.buttonPanel;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.cancel_action = global::App.Droid.Resource.Id.cancel_action;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.center = global::App.Droid.Resource.Id.center;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.center_horizontal = global::App.Droid.Resource.Id.center_horizontal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.center_vertical = global::App.Droid.Resource.Id.center_vertical;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.checkbox = global::App.Droid.Resource.Id.checkbox;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.chronometer = global::App.Droid.Resource.Id.chronometer;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.clip_horizontal = global::App.Droid.Resource.Id.clip_horizontal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.clip_vertical = global::App.Droid.Resource.Id.clip_vertical;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.collapseActionView = global::App.Droid.Resource.Id.collapseActionView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.container = global::App.Droid.Resource.Id.container;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.contentPanel = global::App.Droid.Resource.Id.contentPanel;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.coordinator = global::App.Droid.Resource.Id.coordinator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.CTRL = global::App.Droid.Resource.Id.CTRL;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.custom = global::App.Droid.Resource.Id.custom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.customPanel = global::App.Droid.Resource.Id.customPanel;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.decor_content_parent = global::App.Droid.Resource.Id.decor_content_parent;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.default_activity_button = global::App.Droid.Resource.Id.default_activity_button;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.design_bottom_sheet = global::App.Droid.Resource.Id.design_bottom_sheet;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_action_area = global::App.Droid.Resource.Id.design_menu_item_action_area;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_action_area_stub = global::App.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_text = global::App.Droid.Resource.Id.design_menu_item_text;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.design_navigation_view = global::App.Droid.Resource.Id.design_navigation_view;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.disableHome = global::App.Droid.Resource.Id.disableHome;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.edit_query = global::App.Droid.Resource.Id.edit_query;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.end = global::App.Droid.Resource.Id.end;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.end_padder = global::App.Droid.Resource.Id.end_padder;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.enterAlways = global::App.Droid.Resource.Id.enterAlways;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.enterAlwaysCollapsed = global::App.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.exitUntilCollapsed = global::App.Droid.Resource.Id.exitUntilCollapsed;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.expanded_menu = global::App.Droid.Resource.Id.expanded_menu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.expand_activities_button = global::App.Droid.Resource.Id.expand_activities_button;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.fill = global::App.Droid.Resource.Id.fill;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.fill_horizontal = global::App.Droid.Resource.Id.fill_horizontal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.fill_vertical = global::App.Droid.Resource.Id.fill_vertical;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.@fixed = global::App.Droid.Resource.Id.@fixed;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_appbar = global::App.Droid.Resource.Id.flyoutcontent_appbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.forever = global::App.Droid.Resource.Id.forever;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.FUNCTION = global::App.Droid.Resource.Id.FUNCTION;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.ghost_view = global::App.Droid.Resource.Id.ghost_view;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.home = global::App.Droid.Resource.Id.home;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.homeAsUp = global::App.Droid.Resource.Id.homeAsUp;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.icon = global::App.Droid.Resource.Id.icon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.icon_group = global::App.Droid.Resource.Id.icon_group;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.ifRoom = global::App.Droid.Resource.Id.ifRoom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.image = global::App.Droid.Resource.Id.image;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.info = global::App.Droid.Resource.Id.info;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.italic = global::App.Droid.Resource.Id.italic;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.item_touch_helper_previous_elevation = global::App.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.left = global::App.Droid.Resource.Id.left;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.line1 = global::App.Droid.Resource.Id.line1;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.line3 = global::App.Droid.Resource.Id.line3;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.listMode = global::App.Droid.Resource.Id.listMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.list_item = global::App.Droid.Resource.Id.list_item;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.main_appbar = global::App.Droid.Resource.Id.main_appbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.main_tablayout = global::App.Droid.Resource.Id.main_tablayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.main_toolbar = global::App.Droid.Resource.Id.main_toolbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.main_viewpager = global::App.Droid.Resource.Id.main_viewpager;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.masked = global::App.Droid.Resource.Id.masked;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.media_actions = global::App.Droid.Resource.Id.media_actions;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.message = global::App.Droid.Resource.Id.message;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.META = global::App.Droid.Resource.Id.META;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.middle = global::App.Droid.Resource.Id.middle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.mini = global::App.Droid.Resource.Id.mini;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.multiply = global::App.Droid.Resource.Id.multiply;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.navigation_header_container = global::App.Droid.Resource.Id.navigation_header_container;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.never = global::App.Droid.Resource.Id.never;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.none = global::App.Droid.Resource.Id.none;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.normal = global::App.Droid.Resource.Id.normal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.notification_background = global::App.Droid.Resource.Id.notification_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column = global::App.Droid.Resource.Id.notification_main_column;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column_container = global::App.Droid.Resource.Id.notification_main_column_container;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.parallax = global::App.Droid.Resource.Id.parallax;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.parentPanel = global::App.Droid.Resource.Id.parentPanel;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.parent_matrix = global::App.Droid.Resource.Id.parent_matrix;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.pin = global::App.Droid.Resource.Id.pin;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.progress_circular = global::App.Droid.Resource.Id.progress_circular;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.progress_horizontal = global::App.Droid.Resource.Id.progress_horizontal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.radio = global::App.Droid.Resource.Id.radio;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.right = global::App.Droid.Resource.Id.right;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.right_icon = global::App.Droid.Resource.Id.right_icon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.right_side = global::App.Droid.Resource.Id.right_side;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.save_non_transition_alpha = global::App.Droid.Resource.Id.save_non_transition_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.screen = global::App.Droid.Resource.Id.screen;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.scroll = global::App.Droid.Resource.Id.scroll;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.scrollable = global::App.Droid.Resource.Id.scrollable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorDown = global::App.Droid.Resource.Id.scrollIndicatorDown;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorUp = global::App.Droid.Resource.Id.scrollIndicatorUp;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.scrollView = global::App.Droid.Resource.Id.scrollView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.search_badge = global::App.Droid.Resource.Id.search_badge;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.search_bar = global::App.Droid.Resource.Id.search_bar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.search_button = global::App.Droid.Resource.Id.search_button;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.search_close_btn = global::App.Droid.Resource.Id.search_close_btn;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.search_edit_frame = global::App.Droid.Resource.Id.search_edit_frame;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.search_go_btn = global::App.Droid.Resource.Id.search_go_btn;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.search_mag_icon = global::App.Droid.Resource.Id.search_mag_icon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.search_plate = global::App.Droid.Resource.Id.search_plate;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.search_src_text = global::App.Droid.Resource.Id.search_src_text;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.search_voice_btn = global::App.Droid.Resource.Id.search_voice_btn;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.select_dialog_listview = global::App.Droid.Resource.Id.select_dialog_listview;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_appbar = global::App.Droid.Resource.Id.shellcontent_appbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_toolbar = global::App.Droid.Resource.Id.shellcontent_toolbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.SHIFT = global::App.Droid.Resource.Id.SHIFT;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.shortcut = global::App.Droid.Resource.Id.shortcut;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.showCustom = global::App.Droid.Resource.Id.showCustom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.showHome = global::App.Droid.Resource.Id.showHome;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.showTitle = global::App.Droid.Resource.Id.showTitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.snackbar_action = global::App.Droid.Resource.Id.snackbar_action;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.snackbar_text = global::App.Droid.Resource.Id.snackbar_text;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.snap = global::App.Droid.Resource.Id.snap;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.spacer = global::App.Droid.Resource.Id.spacer;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.split_action_bar = global::App.Droid.Resource.Id.split_action_bar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.src_atop = global::App.Droid.Resource.Id.src_atop;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.src_in = global::App.Droid.Resource.Id.src_in;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.src_over = global::App.Droid.Resource.Id.src_over;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.start = global::App.Droid.Resource.Id.start;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.status_bar_latest_event_content = global::App.Droid.Resource.Id.status_bar_latest_event_content;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.submenuarrow = global::App.Droid.Resource.Id.submenuarrow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.submit_area = global::App.Droid.Resource.Id.submit_area;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.SYM = global::App.Droid.Resource.Id.SYM;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.tabMode = global::App.Droid.Resource.Id.tabMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.tag_transition_group = global::App.Droid.Resource.Id.tag_transition_group;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.text = global::App.Droid.Resource.Id.text;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.text2 = global::App.Droid.Resource.Id.text2;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.textinput_counter = global::App.Droid.Resource.Id.textinput_counter;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.textinput_error = global::App.Droid.Resource.Id.textinput_error;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoButtons = global::App.Droid.Resource.Id.textSpacerNoButtons;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoTitle = global::App.Droid.Resource.Id.textSpacerNoTitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.time = global::App.Droid.Resource.Id.time;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.title = global::App.Droid.Resource.Id.title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.titleDividerNoCustom = global::App.Droid.Resource.Id.titleDividerNoCustom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.title_template = global::App.Droid.Resource.Id.title_template;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.top = global::App.Droid.Resource.Id.top;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.topPanel = global::App.Droid.Resource.Id.topPanel;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.touch_outside = global::App.Droid.Resource.Id.touch_outside;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.transition_current_scene = global::App.Droid.Resource.Id.transition_current_scene;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.transition_layout_save = global::App.Droid.Resource.Id.transition_layout_save;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.transition_position = global::App.Droid.Resource.Id.transition_position;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.transition_scene_layoutid_cache = global::App.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.transition_transform = global::App.Droid.Resource.Id.transition_transform;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.uniform = global::App.Droid.Resource.Id.uniform;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.up = global::App.Droid.Resource.Id.up;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.useLogo = global::App.Droid.Resource.Id.useLogo;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.view_offset_helper = global::App.Droid.Resource.Id.view_offset_helper;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.visible = global::App.Droid.Resource.Id.visible;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.withText = global::App.Droid.Resource.Id.withText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Id.wrap_content = global::App.Droid.Resource.Id.wrap_content;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityDefaultDur = global::App.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityShortDur = global::App.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Integer.app_bar_elevation_anim_duration = global::App.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Integer.bottom_sheet_slide_duration = global::App.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Integer.cancel_button_image_alpha = global::App.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Integer.config_tooltipAnimTime = global::App.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Integer.design_snackbar_text_max_lines = global::App.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Integer.hide_password_duration = global::App.Droid.Resource.Integer.hide_password_duration;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Integer.show_password_duration = global::App.Droid.Resource.Integer.show_password_duration;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Integer.status_bar_notification_info_maxnum = global::App.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_title_item = global::App.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_up_container = global::App.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_item_layout = global::App.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_layout = global::App.Droid.Resource.Layout.abc_action_menu_layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_mode_bar = global::App.Droid.Resource.Layout.abc_action_mode_bar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_mode_close_item_material = global::App.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_activity_chooser_view = global::App.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::App.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::App.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_material = global::App.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_title_material = global::App.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_dialog_title_material = global::App.Droid.Resource.Layout.abc_dialog_title_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_expanded_menu_layout = global::App.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_checkbox = global::App.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_icon = global::App.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_layout = global::App.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_radio = global::App.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::App.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_popup_menu_item_layout = global::App.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_content_include = global::App.Droid.Resource.Layout.abc_screen_content_include;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_simple = global::App.Droid.Resource.Layout.abc_screen_simple;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::App.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_toolbar = global::App.Droid.Resource.Layout.abc_screen_toolbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::App.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_view = global::App.Droid.Resource.Layout.abc_search_view;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.abc_select_dialog_material = global::App.Droid.Resource.Layout.abc_select_dialog_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.BottomTabLayout = global::App.Droid.Resource.Layout.BottomTabLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_navigation_item = global::App.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_sheet_dialog = global::App.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_snackbar = global::App.Droid.Resource.Layout.design_layout_snackbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_snackbar_include = global::App.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_tab_icon = global::App.Droid.Resource.Layout.design_layout_tab_icon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_tab_text = global::App.Droid.Resource.Layout.design_layout_tab_text;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_menu_item_action_area = global::App.Droid.Resource.Layout.design_menu_item_action_area;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item = global::App.Droid.Resource.Layout.design_navigation_item;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_header = global::App.Droid.Resource.Layout.design_navigation_item_header;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_separator = global::App.Droid.Resource.Layout.design_navigation_item_separator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_subheader = global::App.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu = global::App.Droid.Resource.Layout.design_navigation_menu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu_item = global::App.Droid.Resource.Layout.design_navigation_menu_item;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.FlyoutContent = global::App.Droid.Resource.Layout.FlyoutContent;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_action = global::App.Droid.Resource.Layout.notification_action;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_action_tombstone = global::App.Droid.Resource.Layout.notification_action_tombstone;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_action = global::App.Droid.Resource.Layout.notification_media_action;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_cancel_action = global::App.Droid.Resource.Layout.notification_media_cancel_action;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media = global::App.Droid.Resource.Layout.notification_template_big_media;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_custom = global::App.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_narrow = global::App.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::App.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_custom_big = global::App.Droid.Resource.Layout.notification_template_custom_big;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_icon_group = global::App.Droid.Resource.Layout.notification_template_icon_group;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_lines_media = global::App.Droid.Resource.Layout.notification_template_lines_media;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media = global::App.Droid.Resource.Layout.notification_template_media;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media_custom = global::App.Droid.Resource.Layout.notification_template_media_custom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_chronometer = global::App.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_time = global::App.Droid.Resource.Layout.notification_template_part_time;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.RootLayout = global::App.Droid.Resource.Layout.RootLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_item_material = global::App.Droid.Resource.Layout.select_dialog_item_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_multichoice_material = global::App.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_singlechoice_material = global::App.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.ShellContent = global::App.Droid.Resource.Layout.ShellContent;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::App.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_home_description = global::App.Droid.Resource.String.abc_action_bar_home_description;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_up_description = global::App.Droid.Resource.String.abc_action_bar_up_description;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_action_menu_overflow_description = global::App.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_action_mode_done = global::App.Droid.Resource.String.abc_action_mode_done;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_activitychooserview_choose_application = global::App.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_activity_chooser_view_see_all = global::App.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_capital_off = global::App.Droid.Resource.String.abc_capital_off;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_capital_on = global::App.Droid.Resource.String.abc_capital_on;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_clear = global::App.Droid.Resource.String.abc_searchview_description_clear;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_query = global::App.Droid.Resource.String.abc_searchview_description_query;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_search = global::App.Droid.Resource.String.abc_searchview_description_search;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_submit = global::App.Droid.Resource.String.abc_searchview_description_submit;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_voice = global::App.Droid.Resource.String.abc_searchview_description_voice;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_search_hint = global::App.Droid.Resource.String.abc_search_hint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with = global::App.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with_application = global::App.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.abc_toolbar_collapse_description = global::App.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.appbar_scrolling_view_behavior = global::App.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.bottom_sheet_behavior = global::App.Droid.Resource.String.bottom_sheet_behavior;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.character_counter_pattern = global::App.Droid.Resource.String.character_counter_pattern;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.password_toggle_content_description = global::App.Droid.Resource.String.password_toggle_content_description;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.path_password_eye = global::App.Droid.Resource.String.path_password_eye;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_strike_through = global::App.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_visible = global::App.Droid.Resource.String.path_password_eye_mask_visible;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.path_password_strike_through = global::App.Droid.Resource.String.path_password_strike_through;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.search_menu_title = global::App.Droid.Resource.String.search_menu_title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.String.status_bar_notification_info_overflow = global::App.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat = global::App.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat_Light = global::App.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Dialog = global::App.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::App.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Tooltip = global::App.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::App.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat = global::App.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::App.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::App.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::App.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Tooltip = global::App.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_CardView = global::App.Droid.Resource.Style.Base_CardView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::App.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::App.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::App.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::App.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::App.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::App.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::App.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::App.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::App.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::App.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::App.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::App.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::App.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat = global::App.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::App.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::App.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::App.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::App.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::App.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::App.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light = global::App.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::App.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::App.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::App.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::App.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::App.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::App.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::App.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat = global::App.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::App.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::App.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::App.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat = global::App.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::App.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat = global::App.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::App.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat = global::App.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat_Light = global::App.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::App.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::App.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat = global::App.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::App.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::App.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::App.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::App.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::App.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::App.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::App.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::App.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::App.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::App.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::App.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::App.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::App.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::App.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::App.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::App.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::App.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::App.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::App.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::App.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::App.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::App.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::App.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::App.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::App.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::App.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::App.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_Design_TabLayout = global::App.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.CardView = global::App.Droid.Resource.Style.CardView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::App.Droid.Resource.Style.CardView_Dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::App.Droid.Resource.Style.CardView_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat = global::App.Droid.Resource.Style.Platform_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat_Light = global::App.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::App.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::App.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::App.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat = global::App.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat_Light = global::App.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat = global::App.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat_Light = global::App.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::App.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::App.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::App.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::App.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::App.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::App.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::App.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::App.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::App.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::App.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::App.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::App.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::App.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::App.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::App.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat = global::App.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Button = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::App.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::App.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Tooltip = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::App.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification = global::App.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Info = global::App.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::App.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::App.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::App.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Media = global::App.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Time = global::App.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::App.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Title = global::App.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::App.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::App.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter = global::App.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::App.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Error = global::App.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Hint = global::App.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::App.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Tab = global::App.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::App.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::App.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::App.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat = global::App.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::App.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::App.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::App.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::App.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::App.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::App.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat = global::App.Droid.Resource.Style.Theme_AppCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::App.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight = global::App.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::App.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::App.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::App.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::App.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::App.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::App.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog = global::App.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::App.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::App.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::App.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light = global::App.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::App.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::App.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::App.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::App.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::App.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::App.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::App.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design = global::App.Droid.Resource.Style.Theme_Design;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::App.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light = global::App.Droid.Resource.Style.Theme_Design_Light;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::App.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::App.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_NoActionBar = global::App.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar = global::App.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::App.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::App.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::App.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::App.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton = global::App.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::App.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::App.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionMode = global::App.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::App.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::App.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button = global::App.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::App.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::App.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::App.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::App.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::App.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::App.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Small = global::App.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::App.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::App.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::App.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::App.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::App.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_EditText = global::App.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ImageButton = global::App.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::App.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::App.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::App.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::App.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::App.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::App.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::App.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::App.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::App.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView = global::App.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::App.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::App.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::App.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::App.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::App.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::App.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::App.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar = global::App.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::App.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::App.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SearchView = global::App.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::App.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar = global::App.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::App.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner = global::App.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::App.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::App.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::App.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::App.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar = global::App.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::App.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_Compat_NotificationActionContainer = global::App.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_Compat_NotificationActionText = global::App.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_AppBarLayout = global::App.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomNavigationView = global::App.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::App.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::App.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_FloatingActionButton = global::App.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_NavigationView = global::App.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::App.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_Snackbar = global::App.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TabLayout = global::App.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TextInputLayout = global::App.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar = global::App.Droid.Resource.Styleable.ActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout = global::App.Droid.Resource.Styleable.ActionBarLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::App.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_background = global::App.Droid.Resource.Styleable.ActionBar_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundSplit = global::App.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundStacked = global::App.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::App.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::App.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::App.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetRight = global::App.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetStart = global::App.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::App.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::App.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_displayOptions = global::App.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_divider = global::App.Droid.Resource.Styleable.ActionBar_divider;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_elevation = global::App.Droid.Resource.Styleable.ActionBar_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_height = global::App.Droid.Resource.Styleable.ActionBar_height;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::App.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::App.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_homeLayout = global::App.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_icon = global::App.Droid.Resource.Styleable.ActionBar_icon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::App.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_itemPadding = global::App.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_logo = global::App.Droid.Resource.Styleable.ActionBar_logo;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_navigationMode = global::App.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_popupTheme = global::App.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_progressBarPadding = global::App.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_progressBarStyle = global::App.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitle = global::App.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::App.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_title = global::App.Droid.Resource.Styleable.ActionBar_title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_titleTextStyle = global::App.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView = global::App.Droid.Resource.Styleable.ActionMenuItemView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::App.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuView = global::App.Droid.Resource.Styleable.ActionMenuView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode = global::App.Droid.Resource.Styleable.ActionMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_background = global::App.Droid.Resource.Styleable.ActionMode_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_backgroundSplit = global::App.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_closeItemLayout = global::App.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_height = global::App.Droid.Resource.Styleable.ActionMode_height;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::App.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_titleTextStyle = global::App.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView = global::App.Droid.Resource.Styleable.ActivityChooserView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::App.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::App.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog = global::App.Droid.Resource.Styleable.AlertDialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_android_layout = global::App.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::App.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listItemLayout = global::App.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listLayout = global::App.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::App.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_showTitle = global::App.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::App.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout = global::App.Droid.Resource.Styleable.AppBarLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates = global::App.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::App.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::App.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_background = global::App.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::App.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::App.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_elevation = global::App.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_expanded = global::App.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout = global::App.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::App.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::App.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView = global::App.Droid.Resource.Styleable.AppCompatImageView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_android_src = global::App.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::App.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_tint = global::App.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_tintMode = global::App.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar = global::App.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::App.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::App.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::App.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::App.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper = global::App.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::App.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::App.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::App.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::App.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::App.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::App.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::App.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView = global::App.Droid.Resource.Styleable.AppCompatTextView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::App.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::App.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::App.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::App.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::App.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::App.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_fontFamily = global::App.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::App.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme = global::App.Droid.Resource.Styleable.AppCompatTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::App.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::App.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::App.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::App.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::App.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::App.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::App.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::App.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::App.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::App.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::App.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::App.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::App.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::App.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::App.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::App.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::App.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::App.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::App.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorError = global::App.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::App.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::App.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::App.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::App.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::App.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::App.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::App.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::App.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::App.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::App.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::App.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::App.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::App.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::App.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::App.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::App.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::App.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::App.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::App.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::App.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::App.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::App.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::App.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::App.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::App.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::App.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::App.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::App.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::App.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::App.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::App.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::App.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::App.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::App.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::App.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::App.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::App.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::App.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::App.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::App.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::App.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::App.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::App.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::App.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::App.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::App.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::App.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::App.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::App.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView = global::App.Droid.Resource.Styleable.BottomNavigationView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::App.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::App.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::App.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::App.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ButtonBarLayout = global::App.Droid.Resource.Styleable.ButtonBarLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::App.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView = global::App.Droid.Resource.Styleable.CardView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_android_minHeight = global::App.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_android_minWidth = global::App.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardBackgroundColor = global::App.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardCornerRadius = global::App.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardElevation = global::App.Droid.Resource.Styleable.CardView_cardElevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardMaxElevation = global::App.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::App.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::App.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPadding = global::App.Droid.Resource.Styleable.CardView_contentPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingBottom = global::App.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingLeft = global::App.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingRight = global::App.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingTop = global::App.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::App.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem = global::App.Droid.Resource.Styleable.ColorStateListItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_alpha = global::App.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::App.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_color = global::App.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton = global::App.Droid.Resource.Styleable.CompoundButton;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_android_button = global::App.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTint = global::App.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::App.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout = global::App.Droid.Resource.Styleable.CoordinatorLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_keylines = global::App.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout = global::App.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::App.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::App.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::App.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::App.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::App.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::App.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::App.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::App.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle = global::App.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::App.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::App.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::App.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_color = global::App.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::App.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::App.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::App.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::App.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton = global::App.Droid.Resource.Styleable.FloatingActionButton;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::App.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::App.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::App.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::App.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::App.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_elevation = global::App.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabSize = global::App.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::App.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::App.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::App.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily = global::App.Droid.Resource.Styleable.FontFamily;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont = global::App.Droid.Resource.Styleable.FontFamilyFont;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_font = global::App.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::App.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontWeight = global::App.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_font = global::App.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontStyle = global::App.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::App.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::App.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::App.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::App.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::App.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::App.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::App.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout = global::App.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::App.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::App.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::App.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat = global::App.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::App.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::App.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::App.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::App.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::App.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_divider = global::App.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::App.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::App.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::App.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::App.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::App.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::App.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::App.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::App.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow = global::App.Droid.Resource.Styleable.ListPopupWindow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::App.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::App.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup = global::App.Droid.Resource.Styleable.MenuGroup;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::App.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_enabled = global::App.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_id = global::App.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::App.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::App.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_visible = global::App.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem = global::App.Droid.Resource.Styleable.MenuItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionLayout = global::App.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionProviderClass = global::App.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionViewClass = global::App.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_alphabeticModifiers = global::App.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::App.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_checkable = global::App.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_checked = global::App.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_enabled = global::App.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_icon = global::App.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_id = global::App.Droid.Resource.Styleable.MenuItem_android_id;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_menuCategory = global::App.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::App.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_onClick = global::App.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::App.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_title = global::App.Droid.Resource.Styleable.MenuItem_android_title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::App.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_visible = global::App.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_contentDescription = global::App.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_iconTint = global::App.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_iconTintMode = global::App.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_numericModifiers = global::App.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_showAsAction = global::App.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_tooltipText = global::App.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView = global::App.Droid.Resource.Styleable.MenuView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_headerBackground = global::App.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::App.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemBackground = global::App.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::App.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::App.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_verticalDivider = global::App.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::App.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::App.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_subMenuArrow = global::App.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView = global::App.Droid.Resource.Styleable.NavigationView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_background = global::App.Droid.Resource.Styleable.NavigationView_android_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::App.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_maxWidth = global::App.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_elevation = global::App.Droid.Resource.Styleable.NavigationView_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_headerLayout = global::App.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemBackground = global::App.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemIconTint = global::App.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::App.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextColor = global::App.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_menu = global::App.Droid.Resource.Styleable.NavigationView_menu;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow = global::App.Droid.Resource.Styleable.PopupWindow;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState = global::App.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::App.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::App.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::App.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::App.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView = global::App.Droid.Resource.Styleable.RecycleListView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::App.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::App.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView = global::App.Droid.Resource.Styleable.RecyclerView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::App.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_android_orientation = global::App.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollEnabled = global::App.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::App.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::App.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::App.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::App.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_layoutManager = global::App.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_reverseLayout = global::App.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_spanCount = global::App.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::App.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::App.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::App.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::App.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::App.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView = global::App.Droid.Resource.Styleable.SearchView;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_focusable = global::App.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_imeOptions = global::App.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_inputType = global::App.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_maxWidth = global::App.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_closeIcon = global::App.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_commitIcon = global::App.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_defaultQueryHint = global::App.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_goIcon = global::App.Droid.Resource.Styleable.SearchView_goIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::App.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_layout = global::App.Droid.Resource.Styleable.SearchView_layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_queryBackground = global::App.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_queryHint = global::App.Droid.Resource.Styleable.SearchView_queryHint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_searchHintIcon = global::App.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_searchIcon = global::App.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_submitBackground = global::App.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::App.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_voiceIcon = global::App.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout = global::App.Droid.Resource.Styleable.SnackbarLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::App.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_elevation = global::App.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::App.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner = global::App.Droid.Resource.Styleable.Spinner;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::App.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_entries = global::App.Droid.Resource.Styleable.Spinner_android_entries;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_popupBackground = global::App.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_prompt = global::App.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_popupTheme = global::App.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat = global::App.Droid.Resource.Styleable.SwitchCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOff = global::App.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOn = global::App.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_thumb = global::App.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_showText = global::App.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_splitTrack = global::App.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::App.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchPadding = global::App.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::App.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::App.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTint = global::App.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::App.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_track = global::App.Droid.Resource.Styleable.SwitchCompat_track;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_trackTint = global::App.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::App.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem = global::App.Droid.Resource.Styleable.TabItem;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_icon = global::App.Droid.Resource.Styleable.TabItem_android_icon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_layout = global::App.Droid.Resource.Styleable.TabItem_android_layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_text = global::App.Droid.Resource.Styleable.TabItem_android_text;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout = global::App.Droid.Resource.Styleable.TabLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabBackground = global::App.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabContentStart = global::App.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabGravity = global::App.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::App.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::App.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::App.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMinWidth = global::App.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMode = global::App.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPadding = global::App.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::App.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::App.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::App.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::App.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::App.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::App.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextColor = global::App.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance = global::App.Droid.Resource.Styleable.TextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_fontFamily = global::App.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::App.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::App.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::App.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::App.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColor = global::App.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::App.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColorLink = global::App.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textSize = global::App.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textStyle = global::App.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_typeface = global::App.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_fontFamily = global::App.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_textAllCaps = global::App.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout = global::App.Droid.Resource.Styleable.TextInputLayout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_hint = global::App.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::App.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::App.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::App.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::App.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::App.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::App.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::App.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::App.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::App.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::App.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::App.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::App.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::App.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::App.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::App.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar = global::App.Droid.Resource.Styleable.Toolbar;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_gravity = global::App.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_minHeight = global::App.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_buttonGravity = global::App.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::App.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_collapseIcon = global::App.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::App.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::App.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::App.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetRight = global::App.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetStart = global::App.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::App.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_logo = global::App.Droid.Resource.Styleable.Toolbar_logo;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_logoDescription = global::App.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::App.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::App.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_navigationIcon = global::App.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_popupTheme = global::App.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitle = global::App.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::App.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::App.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_title = global::App.Droid.Resource.Styleable.Toolbar_title;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargin = global::App.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::App.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::App.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargins = global::App.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginStart = global::App.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginTop = global::App.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::App.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextColor = global::App.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.View = global::App.Droid.Resource.Styleable.View;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper = global::App.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::App.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::App.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::App.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat = global::App.Droid.Resource.Styleable.ViewStubCompat;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_id = global::App.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::App.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_layout = global::App.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_focusable = global::App.Droid.Resource.Styleable.View_android_focusable;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_theme = global::App.Droid.Resource.Styleable.View_android_theme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingEnd = global::App.Droid.Resource.Styleable.View_paddingEnd;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingStart = global::App.Droid.Resource.Styleable.View_paddingStart;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Styleable.View_theme = global::App.Droid.Resource.Styleable.View_theme;
+			global::OxyPlot.Xamarin.Forms.Platform.Android.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::App.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::App.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::App.Droid.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::App.Droid.Resource.Attribute.fontProviderAuthority;
@@ -18818,359 +20740,365 @@ namespace App.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F0E0000
-			public const int abc_action_bar_home_description = 2131623936;
-			
-			// aapt resource value: 0x7F0E0001
-			public const int abc_action_bar_up_description = 2131623937;
-			
 			// aapt resource value: 0x7F0E0002
-			public const int abc_action_menu_overflow_description = 2131623938;
+			public const int abc_action_bar_home_description = 2131623938;
 			
 			// aapt resource value: 0x7F0E0003
-			public const int abc_action_mode_done = 2131623939;
-			
-			// aapt resource value: 0x7F0E0005
-			public const int abc_activitychooserview_choose_application = 2131623941;
+			public const int abc_action_bar_up_description = 2131623939;
 			
 			// aapt resource value: 0x7F0E0004
-			public const int abc_activity_chooser_view_see_all = 2131623940;
+			public const int abc_action_menu_overflow_description = 2131623940;
 			
-			// aapt resource value: 0x7F0E0006
-			public const int abc_capital_off = 2131623942;
+			// aapt resource value: 0x7F0E0005
+			public const int abc_action_mode_done = 2131623941;
 			
 			// aapt resource value: 0x7F0E0007
-			public const int abc_capital_on = 2131623943;
+			public const int abc_activitychooserview_choose_application = 2131623943;
+			
+			// aapt resource value: 0x7F0E0006
+			public const int abc_activity_chooser_view_see_all = 2131623942;
 			
 			// aapt resource value: 0x7F0E0008
-			public const int abc_menu_alt_shortcut_label = 2131623944;
+			public const int abc_capital_off = 2131623944;
 			
 			// aapt resource value: 0x7F0E0009
-			public const int abc_menu_ctrl_shortcut_label = 2131623945;
+			public const int abc_capital_on = 2131623945;
 			
 			// aapt resource value: 0x7F0E000A
-			public const int abc_menu_delete_shortcut_label = 2131623946;
+			public const int abc_menu_alt_shortcut_label = 2131623946;
 			
 			// aapt resource value: 0x7F0E000B
-			public const int abc_menu_enter_shortcut_label = 2131623947;
+			public const int abc_menu_ctrl_shortcut_label = 2131623947;
 			
 			// aapt resource value: 0x7F0E000C
-			public const int abc_menu_function_shortcut_label = 2131623948;
+			public const int abc_menu_delete_shortcut_label = 2131623948;
 			
 			// aapt resource value: 0x7F0E000D
-			public const int abc_menu_meta_shortcut_label = 2131623949;
+			public const int abc_menu_enter_shortcut_label = 2131623949;
 			
 			// aapt resource value: 0x7F0E000E
-			public const int abc_menu_shift_shortcut_label = 2131623950;
+			public const int abc_menu_function_shortcut_label = 2131623950;
 			
 			// aapt resource value: 0x7F0E000F
-			public const int abc_menu_space_shortcut_label = 2131623951;
+			public const int abc_menu_meta_shortcut_label = 2131623951;
 			
 			// aapt resource value: 0x7F0E0010
-			public const int abc_menu_sym_shortcut_label = 2131623952;
+			public const int abc_menu_shift_shortcut_label = 2131623952;
 			
 			// aapt resource value: 0x7F0E0011
-			public const int abc_prepend_shortcut_label = 2131623953;
-			
-			// aapt resource value: 0x7F0E0013
-			public const int abc_searchview_description_clear = 2131623955;
-			
-			// aapt resource value: 0x7F0E0014
-			public const int abc_searchview_description_query = 2131623956;
-			
-			// aapt resource value: 0x7F0E0015
-			public const int abc_searchview_description_search = 2131623957;
-			
-			// aapt resource value: 0x7F0E0016
-			public const int abc_searchview_description_submit = 2131623958;
-			
-			// aapt resource value: 0x7F0E0017
-			public const int abc_searchview_description_voice = 2131623959;
+			public const int abc_menu_space_shortcut_label = 2131623953;
 			
 			// aapt resource value: 0x7F0E0012
-			public const int abc_search_hint = 2131623954;
+			public const int abc_menu_sym_shortcut_label = 2131623954;
+			
+			// aapt resource value: 0x7F0E0013
+			public const int abc_prepend_shortcut_label = 2131623955;
+			
+			// aapt resource value: 0x7F0E0015
+			public const int abc_searchview_description_clear = 2131623957;
+			
+			// aapt resource value: 0x7F0E0016
+			public const int abc_searchview_description_query = 2131623958;
+			
+			// aapt resource value: 0x7F0E0017
+			public const int abc_searchview_description_search = 2131623959;
 			
 			// aapt resource value: 0x7F0E0018
-			public const int abc_shareactionprovider_share_with = 2131623960;
+			public const int abc_searchview_description_submit = 2131623960;
 			
 			// aapt resource value: 0x7F0E0019
-			public const int abc_shareactionprovider_share_with_application = 2131623961;
+			public const int abc_searchview_description_voice = 2131623961;
+			
+			// aapt resource value: 0x7F0E0014
+			public const int abc_search_hint = 2131623956;
 			
 			// aapt resource value: 0x7F0E001A
-			public const int abc_toolbar_collapse_description = 2131623962;
+			public const int abc_shareactionprovider_share_with = 2131623962;
 			
 			// aapt resource value: 0x7F0E001B
-			public const int appbar_scrolling_view_behavior = 2131623963;
-			
-			// aapt resource value: 0x7F0E001D
-			public const int bottomsheet_action_expand_halfway = 2131623965;
+			public const int abc_shareactionprovider_share_with_application = 2131623963;
 			
 			// aapt resource value: 0x7F0E001C
-			public const int bottom_sheet_behavior = 2131623964;
+			public const int abc_toolbar_collapse_description = 2131623964;
 			
-			// aapt resource value: 0x7F0E001E
-			public const int character_counter_content_description = 2131623966;
+			// aapt resource value: 0x7F0E001D
+			public const int appbar_scrolling_view_behavior = 2131623965;
+			
+			// aapt resource value: 0x7F0E0000
+			public const int ApplicationName = 2131623936;
 			
 			// aapt resource value: 0x7F0E001F
-			public const int character_counter_overflowed_content_description = 2131623967;
+			public const int bottomsheet_action_expand_halfway = 2131623967;
+			
+			// aapt resource value: 0x7F0E001E
+			public const int bottom_sheet_behavior = 2131623966;
 			
 			// aapt resource value: 0x7F0E0020
-			public const int character_counter_pattern = 2131623968;
+			public const int character_counter_content_description = 2131623968;
 			
 			// aapt resource value: 0x7F0E0021
-			public const int chip_text = 2131623969;
+			public const int character_counter_overflowed_content_description = 2131623969;
 			
 			// aapt resource value: 0x7F0E0022
-			public const int clear_text_end_icon_content_description = 2131623970;
+			public const int character_counter_pattern = 2131623970;
 			
 			// aapt resource value: 0x7F0E0023
-			public const int copy = 2131623971;
+			public const int chip_text = 2131623971;
 			
 			// aapt resource value: 0x7F0E0024
-			public const int copy_toast_msg = 2131623972;
+			public const int clear_text_end_icon_content_description = 2131623972;
 			
 			// aapt resource value: 0x7F0E0025
-			public const int error_icon_content_description = 2131623973;
+			public const int copy = 2131623973;
 			
 			// aapt resource value: 0x7F0E0026
-			public const int expand_button_title = 2131623974;
+			public const int copy_toast_msg = 2131623974;
 			
 			// aapt resource value: 0x7F0E0027
-			public const int exposed_dropdown_menu_content_description = 2131623975;
+			public const int error_icon_content_description = 2131623975;
 			
 			// aapt resource value: 0x7F0E0028
-			public const int fab_transformation_scrim_behavior = 2131623976;
+			public const int expand_button_title = 2131623976;
 			
 			// aapt resource value: 0x7F0E0029
-			public const int fab_transformation_sheet_behavior = 2131623977;
+			public const int exposed_dropdown_menu_content_description = 2131623977;
 			
 			// aapt resource value: 0x7F0E002A
-			public const int fallback_menu_item_copy_link = 2131623978;
+			public const int fab_transformation_scrim_behavior = 2131623978;
 			
 			// aapt resource value: 0x7F0E002B
-			public const int fallback_menu_item_open_in_browser = 2131623979;
+			public const int fab_transformation_sheet_behavior = 2131623979;
 			
 			// aapt resource value: 0x7F0E002C
-			public const int fallback_menu_item_share_link = 2131623980;
+			public const int fallback_menu_item_copy_link = 2131623980;
 			
 			// aapt resource value: 0x7F0E002D
-			public const int hide_bottom_view_on_scroll_behavior = 2131623981;
+			public const int fallback_menu_item_open_in_browser = 2131623981;
 			
 			// aapt resource value: 0x7F0E002E
-			public const int icon_content_description = 2131623982;
+			public const int fallback_menu_item_share_link = 2131623982;
+			
+			// aapt resource value: 0x7F0E0001
+			public const int Hello = 2131623937;
 			
 			// aapt resource value: 0x7F0E002F
-			public const int item_view_role_description = 2131623983;
+			public const int hide_bottom_view_on_scroll_behavior = 2131623983;
 			
 			// aapt resource value: 0x7F0E0030
-			public const int material_clock_display_divider = 2131623984;
+			public const int icon_content_description = 2131623984;
 			
 			// aapt resource value: 0x7F0E0031
-			public const int material_clock_toggle_content_description = 2131623985;
+			public const int item_view_role_description = 2131623985;
 			
 			// aapt resource value: 0x7F0E0032
-			public const int material_hour_selection = 2131623986;
+			public const int material_clock_display_divider = 2131623986;
 			
 			// aapt resource value: 0x7F0E0033
-			public const int material_hour_suffix = 2131623987;
+			public const int material_clock_toggle_content_description = 2131623987;
 			
 			// aapt resource value: 0x7F0E0034
-			public const int material_minute_selection = 2131623988;
+			public const int material_hour_selection = 2131623988;
 			
 			// aapt resource value: 0x7F0E0035
-			public const int material_minute_suffix = 2131623989;
+			public const int material_hour_suffix = 2131623989;
 			
 			// aapt resource value: 0x7F0E0036
-			public const int material_motion_easing_accelerated = 2131623990;
+			public const int material_minute_selection = 2131623990;
 			
 			// aapt resource value: 0x7F0E0037
-			public const int material_motion_easing_decelerated = 2131623991;
+			public const int material_minute_suffix = 2131623991;
 			
 			// aapt resource value: 0x7F0E0038
-			public const int material_motion_easing_emphasized = 2131623992;
+			public const int material_motion_easing_accelerated = 2131623992;
 			
 			// aapt resource value: 0x7F0E0039
-			public const int material_motion_easing_linear = 2131623993;
+			public const int material_motion_easing_decelerated = 2131623993;
 			
 			// aapt resource value: 0x7F0E003A
-			public const int material_motion_easing_standard = 2131623994;
+			public const int material_motion_easing_emphasized = 2131623994;
 			
 			// aapt resource value: 0x7F0E003B
-			public const int material_slider_range_end = 2131623995;
+			public const int material_motion_easing_linear = 2131623995;
 			
 			// aapt resource value: 0x7F0E003C
-			public const int material_slider_range_start = 2131623996;
+			public const int material_motion_easing_standard = 2131623996;
 			
 			// aapt resource value: 0x7F0E003D
-			public const int material_timepicker_am = 2131623997;
+			public const int material_slider_range_end = 2131623997;
 			
 			// aapt resource value: 0x7F0E003E
-			public const int material_timepicker_clock_mode_description = 2131623998;
+			public const int material_slider_range_start = 2131623998;
 			
 			// aapt resource value: 0x7F0E003F
-			public const int material_timepicker_hour = 2131623999;
+			public const int material_timepicker_am = 2131623999;
 			
 			// aapt resource value: 0x7F0E0040
-			public const int material_timepicker_minute = 2131624000;
+			public const int material_timepicker_clock_mode_description = 2131624000;
 			
 			// aapt resource value: 0x7F0E0041
-			public const int material_timepicker_pm = 2131624001;
+			public const int material_timepicker_hour = 2131624001;
 			
 			// aapt resource value: 0x7F0E0042
-			public const int material_timepicker_select_time = 2131624002;
+			public const int material_timepicker_minute = 2131624002;
 			
 			// aapt resource value: 0x7F0E0043
-			public const int material_timepicker_text_input_mode_description = 2131624003;
+			public const int material_timepicker_pm = 2131624003;
 			
 			// aapt resource value: 0x7F0E0044
-			public const int mtrl_badge_numberless_content_description = 2131624004;
+			public const int material_timepicker_select_time = 2131624004;
 			
 			// aapt resource value: 0x7F0E0045
-			public const int mtrl_chip_close_icon_content_description = 2131624005;
+			public const int material_timepicker_text_input_mode_description = 2131624005;
 			
 			// aapt resource value: 0x7F0E0046
-			public const int mtrl_exceed_max_badge_number_content_description = 2131624006;
+			public const int mtrl_badge_numberless_content_description = 2131624006;
 			
 			// aapt resource value: 0x7F0E0047
-			public const int mtrl_exceed_max_badge_number_suffix = 2131624007;
+			public const int mtrl_chip_close_icon_content_description = 2131624007;
 			
 			// aapt resource value: 0x7F0E0048
-			public const int mtrl_picker_a11y_next_month = 2131624008;
+			public const int mtrl_exceed_max_badge_number_content_description = 2131624008;
 			
 			// aapt resource value: 0x7F0E0049
-			public const int mtrl_picker_a11y_prev_month = 2131624009;
+			public const int mtrl_exceed_max_badge_number_suffix = 2131624009;
 			
 			// aapt resource value: 0x7F0E004A
-			public const int mtrl_picker_announce_current_selection = 2131624010;
+			public const int mtrl_picker_a11y_next_month = 2131624010;
 			
 			// aapt resource value: 0x7F0E004B
-			public const int mtrl_picker_cancel = 2131624011;
+			public const int mtrl_picker_a11y_prev_month = 2131624011;
 			
 			// aapt resource value: 0x7F0E004C
-			public const int mtrl_picker_confirm = 2131624012;
+			public const int mtrl_picker_announce_current_selection = 2131624012;
 			
 			// aapt resource value: 0x7F0E004D
-			public const int mtrl_picker_date_header_selected = 2131624013;
+			public const int mtrl_picker_cancel = 2131624013;
 			
 			// aapt resource value: 0x7F0E004E
-			public const int mtrl_picker_date_header_title = 2131624014;
+			public const int mtrl_picker_confirm = 2131624014;
 			
 			// aapt resource value: 0x7F0E004F
-			public const int mtrl_picker_date_header_unselected = 2131624015;
+			public const int mtrl_picker_date_header_selected = 2131624015;
 			
 			// aapt resource value: 0x7F0E0050
-			public const int mtrl_picker_day_of_week_column_header = 2131624016;
+			public const int mtrl_picker_date_header_title = 2131624016;
 			
 			// aapt resource value: 0x7F0E0051
-			public const int mtrl_picker_invalid_format = 2131624017;
+			public const int mtrl_picker_date_header_unselected = 2131624017;
 			
 			// aapt resource value: 0x7F0E0052
-			public const int mtrl_picker_invalid_format_example = 2131624018;
+			public const int mtrl_picker_day_of_week_column_header = 2131624018;
 			
 			// aapt resource value: 0x7F0E0053
-			public const int mtrl_picker_invalid_format_use = 2131624019;
+			public const int mtrl_picker_invalid_format = 2131624019;
 			
 			// aapt resource value: 0x7F0E0054
-			public const int mtrl_picker_invalid_range = 2131624020;
+			public const int mtrl_picker_invalid_format_example = 2131624020;
 			
 			// aapt resource value: 0x7F0E0055
-			public const int mtrl_picker_navigate_to_year_description = 2131624021;
+			public const int mtrl_picker_invalid_format_use = 2131624021;
 			
 			// aapt resource value: 0x7F0E0056
-			public const int mtrl_picker_out_of_range = 2131624022;
+			public const int mtrl_picker_invalid_range = 2131624022;
 			
 			// aapt resource value: 0x7F0E0057
-			public const int mtrl_picker_range_header_only_end_selected = 2131624023;
+			public const int mtrl_picker_navigate_to_year_description = 2131624023;
 			
 			// aapt resource value: 0x7F0E0058
-			public const int mtrl_picker_range_header_only_start_selected = 2131624024;
+			public const int mtrl_picker_out_of_range = 2131624024;
 			
 			// aapt resource value: 0x7F0E0059
-			public const int mtrl_picker_range_header_selected = 2131624025;
+			public const int mtrl_picker_range_header_only_end_selected = 2131624025;
 			
 			// aapt resource value: 0x7F0E005A
-			public const int mtrl_picker_range_header_title = 2131624026;
+			public const int mtrl_picker_range_header_only_start_selected = 2131624026;
 			
 			// aapt resource value: 0x7F0E005B
-			public const int mtrl_picker_range_header_unselected = 2131624027;
+			public const int mtrl_picker_range_header_selected = 2131624027;
 			
 			// aapt resource value: 0x7F0E005C
-			public const int mtrl_picker_save = 2131624028;
+			public const int mtrl_picker_range_header_title = 2131624028;
 			
 			// aapt resource value: 0x7F0E005D
-			public const int mtrl_picker_text_input_date_hint = 2131624029;
+			public const int mtrl_picker_range_header_unselected = 2131624029;
 			
 			// aapt resource value: 0x7F0E005E
-			public const int mtrl_picker_text_input_date_range_end_hint = 2131624030;
+			public const int mtrl_picker_save = 2131624030;
 			
 			// aapt resource value: 0x7F0E005F
-			public const int mtrl_picker_text_input_date_range_start_hint = 2131624031;
+			public const int mtrl_picker_text_input_date_hint = 2131624031;
 			
 			// aapt resource value: 0x7F0E0060
-			public const int mtrl_picker_text_input_day_abbr = 2131624032;
+			public const int mtrl_picker_text_input_date_range_end_hint = 2131624032;
 			
 			// aapt resource value: 0x7F0E0061
-			public const int mtrl_picker_text_input_month_abbr = 2131624033;
+			public const int mtrl_picker_text_input_date_range_start_hint = 2131624033;
 			
 			// aapt resource value: 0x7F0E0062
-			public const int mtrl_picker_text_input_year_abbr = 2131624034;
+			public const int mtrl_picker_text_input_day_abbr = 2131624034;
 			
 			// aapt resource value: 0x7F0E0063
-			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624035;
+			public const int mtrl_picker_text_input_month_abbr = 2131624035;
 			
 			// aapt resource value: 0x7F0E0064
-			public const int mtrl_picker_toggle_to_day_selection = 2131624036;
+			public const int mtrl_picker_text_input_year_abbr = 2131624036;
 			
 			// aapt resource value: 0x7F0E0065
-			public const int mtrl_picker_toggle_to_text_input_mode = 2131624037;
+			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624037;
 			
 			// aapt resource value: 0x7F0E0066
-			public const int mtrl_picker_toggle_to_year_selection = 2131624038;
+			public const int mtrl_picker_toggle_to_day_selection = 2131624038;
 			
 			// aapt resource value: 0x7F0E0067
-			public const int nav_app_bar_navigate_up_description = 2131624039;
+			public const int mtrl_picker_toggle_to_text_input_mode = 2131624039;
 			
 			// aapt resource value: 0x7F0E0068
-			public const int nav_app_bar_open_drawer_description = 2131624040;
+			public const int mtrl_picker_toggle_to_year_selection = 2131624040;
 			
 			// aapt resource value: 0x7F0E0069
-			public const int not_set = 2131624041;
+			public const int nav_app_bar_navigate_up_description = 2131624041;
 			
 			// aapt resource value: 0x7F0E006A
-			public const int overflow_tab_title = 2131624042;
+			public const int nav_app_bar_open_drawer_description = 2131624042;
 			
 			// aapt resource value: 0x7F0E006B
-			public const int password_toggle_content_description = 2131624043;
+			public const int not_set = 2131624043;
 			
 			// aapt resource value: 0x7F0E006C
-			public const int path_password_eye = 2131624044;
+			public const int overflow_tab_title = 2131624044;
 			
 			// aapt resource value: 0x7F0E006D
-			public const int path_password_eye_mask_strike_through = 2131624045;
+			public const int password_toggle_content_description = 2131624045;
 			
 			// aapt resource value: 0x7F0E006E
-			public const int path_password_eye_mask_visible = 2131624046;
+			public const int path_password_eye = 2131624046;
 			
 			// aapt resource value: 0x7F0E006F
-			public const int path_password_strike_through = 2131624047;
+			public const int path_password_eye_mask_strike_through = 2131624047;
 			
 			// aapt resource value: 0x7F0E0070
-			public const int preference_copied = 2131624048;
+			public const int path_password_eye_mask_visible = 2131624048;
 			
 			// aapt resource value: 0x7F0E0071
-			public const int search_menu_title = 2131624049;
+			public const int path_password_strike_through = 2131624049;
 			
 			// aapt resource value: 0x7F0E0072
-			public const int status_bar_notification_info_overflow = 2131624050;
+			public const int preference_copied = 2131624050;
 			
 			// aapt resource value: 0x7F0E0073
-			public const int summary_collapsed_preference_list = 2131624051;
+			public const int search_menu_title = 2131624051;
 			
 			// aapt resource value: 0x7F0E0074
-			public const int v7_preference_off = 2131624052;
+			public const int status_bar_notification_info_overflow = 2131624052;
 			
 			// aapt resource value: 0x7F0E0075
-			public const int v7_preference_on = 2131624053;
+			public const int summary_collapsed_preference_list = 2131624053;
+			
+			// aapt resource value: 0x7F0E0076
+			public const int v7_preference_off = 2131624054;
+			
+			// aapt resource value: 0x7F0E0077
+			public const int v7_preference_on = 2131624055;
 			
 			static String()
 			{
@@ -29622,25 +31550,28 @@ namespace App.Droid
 		{
 			
 			// aapt resource value: 0x7F110000
-			public const int image_share_filepaths = 2131820544;
+			public const int device_filter = 2131820544;
 			
 			// aapt resource value: 0x7F110001
-			public const int standalone_badge = 2131820545;
+			public const int image_share_filepaths = 2131820545;
 			
 			// aapt resource value: 0x7F110002
-			public const int standalone_badge_gravity_bottom_end = 2131820546;
+			public const int standalone_badge = 2131820546;
 			
 			// aapt resource value: 0x7F110003
-			public const int standalone_badge_gravity_bottom_start = 2131820547;
+			public const int standalone_badge_gravity_bottom_end = 2131820547;
 			
 			// aapt resource value: 0x7F110004
-			public const int standalone_badge_gravity_top_start = 2131820548;
+			public const int standalone_badge_gravity_bottom_start = 2131820548;
 			
 			// aapt resource value: 0x7F110005
-			public const int standalone_badge_offset = 2131820549;
+			public const int standalone_badge_gravity_top_start = 2131820549;
 			
 			// aapt resource value: 0x7F110006
-			public const int xamarin_essentials_fileprovider_file_paths = 2131820550;
+			public const int standalone_badge_offset = 2131820550;
+			
+			// aapt resource value: 0x7F110007
+			public const int xamarin_essentials_fileprovider_file_paths = 2131820551;
 			
 			static Xml()
 			{

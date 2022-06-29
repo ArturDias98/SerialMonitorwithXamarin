@@ -15,9 +15,12 @@ namespace App
     public partial class MainPage : ContentPage, INotifyPropertyChanged
     {
         private PlotModel model;
+        private double _analogData;
         private LineSeries serie;
-        private Timer plotTimer;
-        private Random random = new Random();  
+        const int SPAN = 30;
+        //private Timer timer = new Timer(50);
+        //private Random random = new Random();
+        private double step;
         public MainPage()
         {
             InitializeComponent();
@@ -26,17 +29,15 @@ namespace App
 
             ConfigureGraph();
 
-            plotTimer = new Timer(1000);
-            plotTimer.Elapsed += PlotTimer_Elapsed;
-            plotTimer.Start();
+            //timer.Elapsed += Timer_Elapsed;
+            //timer.Start();  
         }
 
-        private void PlotTimer_Elapsed(object sender, ElapsedEventArgs e)
-        {
-            var s = (LineSeries)Model.Series[0];
-            s.Points.Add(new DataPoint(DateTimeAxis.ToDouble(DateTime.Now), random.Next(0, 1023)));
-            Model.InvalidatePlot(true);
-        }
+        //private void Timer_Elapsed(object sender, ElapsedEventArgs e)
+        //{
+        //    Update(random.Next(0, 1023));
+        //}
+
         private void ConfigureGraph()
         {
             Model = new PlotModel { Title = "Analog Data" };
@@ -44,9 +45,10 @@ namespace App
             {
                 Position = AxisPosition.Bottom,
                 Minimum = DateTimeAxis.ToDouble(DateTime.Now),
-                Maximum = DateTimeAxis.ToDouble(DateTime.Now + TimeSpan.FromMinutes(5)),
+                Maximum = DateTimeAxis.ToDouble(DateTime.Now + TimeSpan.FromSeconds(SPAN)),
                 Title = "Time"
             });
+            step = model.Axes[0].Maximum - model.Axes[0].Minimum;
             Model.Axes.Add(new LinearAxis
             {
                 Position = AxisPosition.Left,
@@ -58,6 +60,21 @@ namespace App
 
             Model.Series.Add(serie);
         }
+
+        public void Update(double data)
+        {
+            AnalogData = data;
+            var time = DateTimeAxis.ToDouble(DateTime.Now);
+            var s = (LineSeries)Model.Series[0];
+            s.Points.Add(new DataPoint(time, data));
+            if (Model.Axes[0].Maximum < time)
+            {
+                Model.Axes[0].Maximum = time;
+                Model.Axes[0].Minimum = time - step;
+            }
+            Model.InvalidatePlot(true);
+        }
+
         public PlotModel Model
         {
             get
@@ -69,7 +86,20 @@ namespace App
                 model = value; 
                 OnPropertyChanged();
             }
+        }      
+        public double AnalogData
+        {
+            get 
+            { 
+                return _analogData; 
+            }
+            set 
+            { 
+                _analogData = value;
+                OnPropertyChanged(nameof(AnalogData));
+            }
         }
+
 
     }
 }

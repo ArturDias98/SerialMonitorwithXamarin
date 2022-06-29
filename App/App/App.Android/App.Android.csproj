@@ -45,7 +45,11 @@
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Android.UsbSerial">
+      <HintPath>..\..\Dlls\Android.UsbSerial.dll</HintPath>
+    </Reference>
     <Reference Include="Mono.Android" />
+    <Reference Include="Mono.Android.Export" />
     <Reference Include="OxyPlot">
       <HintPath>..\..\Dlls\OxyPlot.dll</HintPath>
     </Reference>
@@ -103,6 +107,9 @@
       <Project>{3AFA7329-1DFA-4F07-8239-9F660E3A70D3}</Project>
       <Name>App</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\xml\device_filter.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
