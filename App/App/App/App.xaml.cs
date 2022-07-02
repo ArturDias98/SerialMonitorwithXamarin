@@ -15,7 +15,7 @@ namespace App
             mainPage = new MainPage();
             MainPage = mainPage;
 
-            protocol = new Protocol(0xAB, 0xCD, 0xAF, 0xCF, 2);
+            protocol = new Protocol(0xAB, 0xCD, 0xAF, 0xCF, 6);
             protocol.OnDataFromatedEvent += OndataFormatted;
         }
 
@@ -31,9 +31,9 @@ namespace App
         {
         }
 
-        private void OndataFormatted(double data)
+        private void OndataFormatted(double temperature, double ads, double arduino)
         {
-            mainPage.Update(data);
+            mainPage.Update(temperature, ads, arduino);
         }
 
         public void Update(IEnumerable<byte> buffer)

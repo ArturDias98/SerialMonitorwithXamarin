@@ -44,11 +44,11 @@ namespace App
         private bool FindHeader()
         {
             var buffersize = buffer.Count;
-            if (buffersize < _datasize) return false;
+            if (buffersize < 2) return false;
 
             for (int i = 0; i < buffersize; i++)
             {
-                if ((buffer.Count < _datasize)) return false;
+                //if ((buffer.Count < _datasize)) return false;
 
                 if (buffer[0] == _header1 && buffer[1] == _header2)
                 {
@@ -66,15 +66,15 @@ namespace App
         private bool FindTail()
         {
             var buffersize = buffer.Count;
-            if (buffersize < _datasize) return false;
+            if (buffersize < 2) return false;
 
             for (int i = 0; i < buffersize; i++)
             {
-                if (buffer.Count < _datasize)
-                {
-                    dataFrame.Clear();
-                    return false;
-                }
+                //if (buffer.Count < _datasize)
+                //{
+                //    dataFrame.Clear();
+                //    return false;
+                //}
 
                 if ((buffer[0] == _tail1 && buffer[1] == _tail2) && dataFrame.Count == _datasize)
                 {
@@ -94,14 +94,30 @@ namespace App
         }
         private void FormatedData()
         {
+            var frame = dataFrame.ToArray();
 
-            int dataFormatted = BitConverter.ToInt16(dataFrame.ToArray(), 0);
+            byte[] temperature_array = new byte[2];
+            Array.Copy(frame, 0, temperature_array, 0, 2);
+            var temperature_raw = BitConverter.ToInt16(temperature_array, 0);
+            var temperature = (double)temperature_raw / 100;
+            
+            byte[] ddp_ads_array = new byte[2];//Adc do Ads
+            Array.Copy(frame, 2, ddp_ads_array, 0, 2);
+            var ddp_ads_raw = BitConverter.ToInt16(ddp_ads_array, 0); 
+            var ddp_ads = (double)ddp_ads_raw / 100;
+            
+            byte[] ddp_intern_array = new byte[2];//Adc do arduino
+            Array.Copy(frame, 4, ddp_intern_array, 0, 2);
+            var ddp_intern_raw = BitConverter.ToInt16(ddp_intern_array, 0);
+            var ddp_intern = (double)ddp_intern_raw / 100;
+
+            OnDataFromatedEvent?.Invoke(temperature, ddp_ads, ddp_intern);
+
             dataFrame.Clear();
             buffer.Clear();
-            OnDataFromatedEvent?.Invoke(dataFormatted);
         }
 
-        public Action<double> OnDataFromatedEvent;
+        public Action<double, double, double> OnDataFromatedEvent;
 
         public void Add(IEnumerable<byte> data)
         {

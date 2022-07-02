@@ -15,11 +15,12 @@ namespace App
     public partial class MainPage : ContentPage, INotifyPropertyChanged
     {
         private PlotModel model;
-        private double _analogData;
+        private double _temperature;
+        private double _ddp_Ads;
+        private double _ddp_Intern;
+
         private LineSeries serie;
         const int SPAN = 30;
-        //private Timer timer = new Timer(50);
-        //private Random random = new Random();
         private double step;
         public MainPage()
         {
@@ -29,18 +30,11 @@ namespace App
 
             ConfigureGraph();
 
-            //timer.Elapsed += Timer_Elapsed;
-            //timer.Start();  
         }
-
-        //private void Timer_Elapsed(object sender, ElapsedEventArgs e)
-        //{
-        //    Update(random.Next(0, 1023));
-        //}
 
         private void ConfigureGraph()
         {
-            Model = new PlotModel { Title = "Analog Data" };
+            Model = new PlotModel { Title = "Monitor" };
             Model.Axes.Add(new DateTimeAxis
             {
                 Position = AxisPosition.Bottom,
@@ -52,8 +46,8 @@ namespace App
             Model.Axes.Add(new LinearAxis
             {
                 Position = AxisPosition.Left,
-                Minimum = 0,
-                Maximum = 1050
+                Maximum = 50,
+                Minimum = 0
             });
 
             serie = new LineSeries();
@@ -61,17 +55,25 @@ namespace App
             Model.Series.Add(serie);
         }
 
-        public void Update(double data)
+        public void Update(double temperature, double ddp_ads, double ddp_intern)
         {
-            AnalogData = data;
+            Temperature = temperature;
+            Ddp_Ads = ddp_ads;
+            Ddp_Intern = ddp_intern; 
+            UpdateGraph();
+        }
+
+        private void UpdateGraph() 
+        {
             var time = DateTimeAxis.ToDouble(DateTime.Now);
             var s = (LineSeries)Model.Series[0];
-            s.Points.Add(new DataPoint(time, data));
+            s.Points.Add(new DataPoint(time, Temperature));
             if (Model.Axes[0].Maximum < time)
             {
                 Model.Axes[0].Maximum = time;
                 Model.Axes[0].Minimum = time - step;
             }
+
             Model.InvalidatePlot(true);
         }
 
@@ -87,16 +89,40 @@ namespace App
                 OnPropertyChanged();
             }
         }      
-        public double AnalogData
+        public double Temperature
         {
             get 
             { 
-                return _analogData; 
+                return _temperature; 
             }
             set 
             { 
-                _analogData = value;
-                OnPropertyChanged(nameof(AnalogData));
+                _temperature = value;
+                OnPropertyChanged(nameof(Temperature));
+            }
+        }      
+        public double Ddp_Ads
+        {
+            get 
+            { 
+                return _ddp_Ads; 
+            }
+            set 
+            { 
+                _ddp_Ads = value;
+                OnPropertyChanged(nameof(Ddp_Ads));
+            }
+        }
+        public double Ddp_Intern
+        {
+            get 
+            { 
+                return _ddp_Intern; 
+            }
+            set 
+            { 
+                _ddp_Intern = value;
+                OnPropertyChanged(nameof(Ddp_Intern));
             }
         }
 

@@ -2,23 +2,59 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App.MainPage"
-             xmlns:oxy="clr-namespace:OxyPlot.Xamarin.Forms;assembly=OxyPlot.Xamarin.Forms">
+             xmlns:oxy="clr-namespace:OxyPlot.Xamarin.Forms;assembly=OxyPlot.Xamarin.Forms"
+             BackgroundColor="White">
 
     <StackLayout>
+
+        <StackLayout Orientation="Horizontal"
+                     Margin="2"
+                     HorizontalOptions="Start">
+            <Label Text="Temperatura:"
+                   FontAttributes="Bold"
+                   FontSize="20"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center" />
+            <Label Text="{Binding Temperature}"
+                   FontSize="20"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center" />
+        </StackLayout>
+
+        <!--<StackLayout Orientation="Horizontal"
+                     Margin="2"
+                     HorizontalOptions="Start">
+            <Label Text="Ads:"
+                   FontAttributes="Bold"
+                   FontSize="20"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center" />
+            <Label Text="{Binding Ddp_Ads}"
+                   FontSize="20"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center" />
+        </StackLayout>
+        
+        <StackLayout Orientation="Horizontal"
+                     Margin="2"
+                     HorizontalOptions="Start">
+            <Label Text="Arduino:"
+                   FontAttributes="Bold"
+                   FontSize="20"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center" />
+            <Label Text="{Binding Ddp_Intern}"
+                   FontSize="20"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center" />
+        </StackLayout>-->
         
         <oxy:PlotView Model="{Binding Model}"
                       VerticalOptions="Center"
                       HorizontalOptions="Center"
                       IsVisible="True"
                       WidthRequest="500"
-                      HeightRequest="300"
-                      />
-        
-        <Label Text="{Binding AnalogData}"
-               FontSize="30"
-               HorizontalOptions="Center" 
-               VerticalOptions="Center"
-               Margin="5"/>
+                      HeightRequest="250" />
     </StackLayout>
 
 </ContentPage>
