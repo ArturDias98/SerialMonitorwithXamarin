@@ -13,8 +13,16 @@ void loop() {
   
   Serial.write(0xAB);
   Serial.write(0xCD);
+  
   Serial.write(lsb);
   Serial.write(msb);
+  
+  Serial.write(0);// put the byte you want
+  Serial.write(0);// put the byte you want
+  
+  Serial.write(0);// put the byte you want
+  Serial.write(0);// put the byte you want
+  
   Serial.write(0xAF);
   Serial.write(0xCF);
 
